@@ -1,511 +1,78 @@
 {
  "date": "2026-09-26",
- "updated": "2026-09-25T12:01-05:00",
- "demo": true,
+ "updated": "2026-09-25T13:40-05:00",
  "matches": [
   {
-   "id": 3009,
-   "league": {
-    "id": 78,
-    "name": "Bundesliga",
-    "country": "Alemania"
-   },
-   "time": "14:15",
-   "status": "NS",
-   "referee": null,
-   "home": {
-    "name": "Borussia Dortmund",
-    "form": "WDWWW"
-   },
-   "away": {
-    "name": "Augsburg",
-    "form": "WWDDD"
-   },
-   "score": null,
-   "xg": [
-    1.38,
-    1.27
-   ],
-   "cards": 4.6,
-   "p": {
-    "1": 0.395,
-    "x": 0.261,
-    "2": 0.344,
-    "o15": 0.741,
-    "o25": 0.492,
-    "o35": 0.273,
-    "btts": 0.537,
-    "c35": 0.674,
-    "c45": 0.486
-   },
-   "likely": [
-    1,
-    1
-   ],
-   "pick": {
-    "code": "AM",
-    "prob": 0.537
-   },
-   "api": {
-    "1": 0.3458113007814697,
-    "x": 0.261,
-    "2": 0.344,
-    "uo": "-2.5"
-   },
-   "checks": {
-    "modelo": false,
-    "api": false,
-    "historial": false
-   },
-   "cons": 0
-  },
-  {
-   "id": 3006,
-   "league": {
-    "id": 140,
-    "name": "LaLiga",
-    "country": "España"
-   },
-   "time": "20:00",
-   "status": "NS",
-   "referee": null,
-   "home": {
-    "name": "Atlético Madrid",
-    "form": "WWLLD"
-   },
-   "away": {
-    "name": "Real Madrid",
-    "form": "WDLDD"
-   },
-   "score": null,
-   "xg": [
-    1.62,
-    1.25
-   ],
-   "cards": 4.4,
-   "p": {
-    "1": 0.461,
-    "x": 0.244,
-    "2": 0.294,
-    "o15": 0.78,
-    "o25": 0.547,
-    "o35": 0.323,
-    "btts": 0.572,
-    "c35": 0.643,
-    "c45": 0.451
-   },
-   "likely": [
-    1,
-    1
-   ],
-   "pick": {
-    "code": "AM",
-    "prob": 0.572
-   },
-   "api": {
-    "1": 0.382791526679502,
-    "x": 0.244,
-    "2": 0.294,
-    "uo": "+2.5"
-   },
-   "checks": {
-    "modelo": true,
-    "api": true,
-    "historial": false
-   },
-   "cons": 2
-  },
-  {
-   "id": 3005,
-   "league": {
-    "id": 140,
-    "name": "LaLiga",
-    "country": "España"
-   },
-   "time": "20:15",
-   "status": "NS",
-   "referee": null,
-   "home": {
-    "name": "Getafe",
-    "form": "LWWDW"
-   },
-   "away": {
-    "name": "Barcelona",
-    "form": "DWLWW"
-   },
-   "score": null,
-   "xg": [
-    1.5,
-    1.37
-   ],
-   "cards": 4.8,
-   "p": {
-    "1": 0.404,
-    "x": 0.249,
-    "2": 0.348,
-    "o15": 0.78,
-    "o25": 0.547,
-    "o35": 0.323,
-    "btts": 0.579,
-    "c35": 0.701,
-    "c45": 0.518
-   },
-   "likely": [
-    1,
-    1
-   ],
-   "pick": {
-    "code": "AM",
-    "prob": 0.579
-   },
-   "api": {
-    "1": 0.4860791999478553,
-    "x": 0.249,
-    "2": 0.348,
-    "uo": "+2.5"
-   },
-   "checks": {
-    "modelo": true,
-    "api": true,
-    "historial": false
-   },
-   "cons": 2
-  },
-  {
-   "id": 3004,
-   "league": {
-    "id": 140,
-    "name": "LaLiga",
-    "country": "España"
-   },
-   "time": "20:30",
-   "status": "NS",
-   "referee": null,
-   "home": {
-    "name": "Osasuna",
-    "form": "WWWDL"
-   },
-   "away": {
-    "name": "Villarreal",
-    "form": "LDWWW"
-   },
-   "score": null,
-   "xg": [
-    1.48,
-    0.97
-   ],
-   "cards": 4.1,
-   "p": {
-    "1": 0.489,
-    "x": 0.262,
-    "2": 0.248,
-    "o15": 0.703,
-    "o25": 0.444,
-    "o35": 0.232,
-    "btts": 0.48,
-    "c35": 0.577,
-    "c45": 0.382
-   },
-   "likely": [
-    1,
-    0
-   ],
-   "pick": {
-    "code": "-2.5",
-    "prob": 0.556
-   },
-   "api": {
-    "1": 0.5184336712658641,
-    "x": 0.262,
-    "2": 0.248,
-    "uo": "+2.5"
-   },
-   "checks": {
-    "modelo": true,
-    "api": false,
-    "historial": false
-   },
-   "cons": 1
-  },
-  {
-   "id": 3002,
+   "id": 1549801,
    "league": {
     "id": 239,
     "name": "Liga BetPlay",
-    "country": "Colombia"
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
-   "time": "13:15",
+   "time": "16:00",
    "status": "NS",
    "referee": null,
    "home": {
-    "name": "Unión Magdalena",
-    "form": "WLDLL"
+    "id": 1462,
+    "name": "Deportivo Pereira",
+    "logo": "https://media.api-sports.io/football/teams/1462.png"
    },
    "away": {
+    "id": 1134,
+    "name": "Internacional de Bogota",
+    "logo": "https://media.api-sports.io/football/teams/1134.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549796,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "18:15",
+   "status": "NS",
+   "referee": "Jonnathan Ortiz",
+   "home": {
+    "id": 1470,
+    "name": "Cucuta",
+    "logo": "https://media.api-sports.io/football/teams/1470.png"
+   },
+   "away": {
+    "id": 1464,
+    "name": "Llaneros",
+    "logo": "https://media.api-sports.io/football/teams/1464.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549799,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "20:20",
+   "status": "NS",
+   "referee": "Jhon Ospina",
+   "home": {
+    "id": 1135,
     "name": "Junior",
-    "form": "WWLLL"
-   },
-   "score": null,
-   "xg": [
-    1.45,
-    0.94
-   ],
-   "cards": 4.7,
-   "p": {
-    "1": 0.49,
-    "x": 0.266,
-    "2": 0.244,
-    "o15": 0.689,
-    "o25": 0.427,
-    "o35": 0.219,
-    "btts": 0.466,
-    "c35": 0.685,
-    "c45": 0.499
-   },
-   "likely": [
-    1,
-    0
-   ],
-   "pick": {
-    "code": "-2.5",
-    "prob": 0.573
-   },
-   "api": {
-    "1": 0.44404796948761205,
-    "x": 0.266,
-    "2": 0.244,
-    "uo": "+2.5"
-   },
-   "checks": {
-    "modelo": true,
-    "api": false,
-    "historial": true
-   },
-   "cons": 2
-  },
-  {
-   "id": 3001,
-   "league": {
-    "id": 239,
-    "name": "Liga BetPlay",
-    "country": "Colombia"
-   },
-   "time": "14:15",
-   "status": "NS",
-   "referee": null,
-   "home": {
-    "name": "Once Caldas",
-    "form": "WWWLL"
+    "logo": "https://media.api-sports.io/football/teams/1135.png"
    },
    "away": {
-    "name": "América de Cali",
-    "form": "LDDDD"
+    "id": 1128,
+    "name": "Independiente Medellin",
+    "logo": "https://media.api-sports.io/football/teams/1128.png"
    },
-   "score": null,
-   "xg": [
-    1.5,
-    0.98
-   ],
-   "cards": 4.4,
-   "p": {
-    "1": 0.492,
-    "x": 0.26,
-    "2": 0.248,
-    "o15": 0.71,
-    "o25": 0.452,
-    "o35": 0.239,
-    "btts": 0.487,
-    "c35": 0.643,
-    "c45": 0.452
-   },
-   "likely": [
-    1,
-    0
-   ],
-   "pick": {
-    "code": "-2.5",
-    "prob": 0.548
-   },
-   "api": {
-    "1": 0.5231990652064458,
-    "x": 0.26,
-    "2": 0.248,
-    "uo": "-2.5"
-   },
-   "checks": {
-    "modelo": false,
-    "api": true,
-    "historial": false
-   },
-   "cons": 1
-  },
-  {
-   "id": 3003,
-   "league": {
-    "id": 39,
-    "name": "Premier League",
-    "country": "Inglaterra"
-   },
-   "time": "07:00",
-   "status": "NS",
-   "referee": null,
-   "home": {
-    "name": "Manchester City",
-    "form": "LLLWW"
-   },
-   "away": {
-    "name": "Chelsea",
-    "form": "WWWLW"
-   },
-   "score": null,
-   "xg": [
-    1.55,
-    1.24
-   ],
-   "cards": 3.9,
-   "p": {
-    "1": 0.447,
-    "x": 0.25,
-    "2": 0.303,
-    "o15": 0.767,
-    "o25": 0.528,
-    "o35": 0.306,
-    "btts": 0.56,
-    "c35": 0.544,
-    "c45": 0.349
-   },
-   "likely": [
-    1,
-    1
-   ],
-   "pick": {
-    "code": "AM",
-    "prob": 0.56
-   },
-   "api": {
-    "1": 0.5034597236002263,
-    "x": 0.25,
-    "2": 0.303,
-    "uo": "+2.5"
-   },
-   "checks": {
-    "modelo": true,
-    "api": true,
-    "historial": false
-   },
-   "cons": 2
-  },
-  {
-   "id": 3008,
-   "league": {
-    "id": 135,
-    "name": "Serie A",
-    "country": "Italia"
-   },
-   "time": "13:15",
-   "status": "NS",
-   "referee": null,
-   "home": {
-    "name": "Torino",
-    "form": "WWWWL"
-   },
-   "away": {
-    "name": "Inter",
-    "form": "LWWDW"
-   },
-   "score": null,
-   "xg": [
-    1.49,
-    1.07
-   ],
-   "cards": 4.6,
-   "p": {
-    "1": 0.469,
-    "x": 0.259,
-    "2": 0.272,
-    "o15": 0.725,
-    "o25": 0.471,
-    "o35": 0.255,
-    "btts": 0.509,
-    "c35": 0.682,
-    "c45": 0.495
-   },
-   "likely": [
-    1,
-    1
-   ],
-   "pick": {
-    "code": "-2.5",
-    "prob": 0.529
-   },
-   "api": {
-    "1": 0.5412484742396306,
-    "x": 0.259,
-    "2": 0.272,
-    "uo": "-2.5"
-   },
-   "checks": {
-    "modelo": false,
-    "api": true,
-    "historial": false
-   },
-   "cons": 1
-  },
-  {
-   "id": 3007,
-   "league": {
-    "id": 135,
-    "name": "Serie A",
-    "country": "Italia"
-   },
-   "time": "16:15",
-   "status": "NS",
-   "referee": null,
-   "home": {
-    "name": "Napoli",
-    "form": "LWDDL"
-   },
-   "away": {
-    "name": "Bologna",
-    "form": "WDWWD"
-   },
-   "score": null,
-   "xg": [
-    1.52,
-    1.18
-   ],
-   "cards": 4.1,
-   "p": {
-    "1": 0.451,
-    "x": 0.254,
-    "2": 0.295,
-    "o15": 0.751,
-    "o25": 0.506,
-    "o35": 0.286,
-    "btts": 0.541,
-    "c35": 0.581,
-    "c45": 0.385
-   },
-   "likely": [
-    1,
-    1
-   ],
-   "pick": {
-    "code": "AM",
-    "prob": 0.541
-   },
-   "api": {
-    "1": 0.41799418270243643,
-    "x": 0.254,
-    "2": 0.295,
-    "uo": "+2.5"
-   },
-   "checks": {
-    "modelo": false,
-    "api": true,
-    "historial": false
-   },
-   "cons": 1
+   "score": null
   }
  ]
 }
