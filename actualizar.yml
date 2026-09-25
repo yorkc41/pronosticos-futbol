@@ -1,0 +1,37 @@
+name: Actualizar datos
+
+on:
+  schedule:
+    # 10:07 UTC = 5:07 a. m. hora Colombia, y 17:07 UTC = 12:07 p. m. (resultados y cambios)
+    - cron: "7 10 * * *"
+    - cron: "7 17 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Traer partidos y calcular probabilidades
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          MAX_CALLS: "45"
+        run: python scripts/update.py
+      - name: Guardar cambios
+        run: |
+          git config user.name "goleo-bot"
+          git config user.email "goleo-bot@users.noreply.github.com"
+          git add site/data cache
+          git diff --cached --quiet || git commit -m "Datos $(date -u +%F\ %H:%M)"
+          git pull --rebase
+          git push
