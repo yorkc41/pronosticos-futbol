@@ -1,0 +1,567 @@
+{
+ "date": "2026-09-25",
+ "updated": "2026-09-25T12:01-05:00",
+ "demo": true,
+ "matches": [
+  {
+   "id": 2007,
+   "league": {
+    "id": 78,
+    "name": "Bundesliga",
+    "country": "Alemania"
+   },
+   "time": "09:30",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "name": "Augsburg",
+    "form": "LWWWW"
+   },
+   "away": {
+    "name": "Stuttgart",
+    "form": "WLDWL"
+   },
+   "score": null,
+   "xg": [
+    1.47,
+    0.96
+   ],
+   "cards": 4.9,
+   "p": {
+    "1": 0.491,
+    "x": 0.263,
+    "2": 0.246,
+    "o15": 0.699,
+    "o25": 0.439,
+    "o35": 0.229,
+    "btts": 0.476,
+    "c35": 0.724,
+    "c45": 0.545
+   },
+   "likely": [
+    1,
+    0
+   ],
+   "pick": {
+    "code": "-2.5",
+    "prob": 0.561
+   },
+   "api": {
+    "1": 0.577500930045502,
+    "x": 0.263,
+    "2": 0.246,
+    "uo": "+2.5"
+   },
+   "checks": {
+    "modelo": true,
+    "api": false,
+    "historial": false
+   },
+   "cons": 1
+  },
+  {
+   "id": 2008,
+   "league": {
+    "id": 78,
+    "name": "Bundesliga",
+    "country": "Alemania"
+   },
+   "time": "20:00",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "name": "Borussia Dortmund",
+    "form": "WWLLL"
+   },
+   "away": {
+    "name": "Bayer Leverkusen",
+    "form": "DDDWW"
+   },
+   "score": null,
+   "xg": [
+    1.44,
+    1.31
+   ],
+   "cards": 4.9,
+   "p": {
+    "1": 0.402,
+    "x": 0.255,
+    "2": 0.343,
+    "o15": 0.759,
+    "o25": 0.517,
+    "o35": 0.295,
+    "btts": 0.556,
+    "c35": 0.722,
+    "c45": 0.543
+   },
+   "likely": [
+    1,
+    1
+   ],
+   "pick": {
+    "code": "AM",
+    "prob": 0.556
+   },
+   "api": {
+    "1": 0.3991596095990729,
+    "x": 0.255,
+    "2": 0.343,
+    "uo": "+2.5"
+   },
+   "checks": {
+    "modelo": true,
+    "api": true,
+    "historial": false
+   },
+   "cons": 2
+  },
+  {
+   "id": 2010,
+   "league": {
+    "id": 13,
+    "name": "Copa Libertadores",
+    "country": "Sudamérica"
+   },
+   "time": "09:15",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "name": "River Plate",
+    "form": "LDWDW"
+   },
+   "away": {
+    "name": "Boca Juniors",
+    "form": "DDWLL"
+   },
+   "score": null,
+   "xg": [
+    1.58,
+    1.19
+   ],
+   "cards": 4.7,
+   "p": {
+    "1": 0.464,
+    "x": 0.249,
+    "2": 0.287,
+    "o15": 0.764,
+    "o25": 0.523,
+    "o35": 0.301,
+    "btts": 0.552,
+    "c35": 0.697,
+    "c45": 0.514
+   },
+   "likely": [
+    1,
+    1
+   ],
+   "pick": {
+    "code": "AM",
+    "prob": 0.552
+   },
+   "api": {
+    "1": 0.5490830978573155,
+    "x": 0.249,
+    "2": 0.287,
+    "uo": "-2.5"
+   },
+   "checks": {
+    "modelo": true,
+    "api": false,
+    "historial": false
+   },
+   "cons": 1
+  },
+  {
+   "id": 2009,
+   "league": {
+    "id": 13,
+    "name": "Copa Libertadores",
+    "country": "Sudamérica"
+   },
+   "time": "13:15",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "name": "Flamengo",
+    "form": "DLWLD"
+   },
+   "away": {
+    "name": "Palmeiras",
+    "form": "DWDWD"
+   },
+   "score": null,
+   "xg": [
+    1.37,
+    1.37
+   ],
+   "cards": 4.4,
+   "p": {
+    "1": 0.371,
+    "x": 0.256,
+    "2": 0.373,
+    "o15": 0.759,
+    "o25": 0.517,
+    "o35": 0.296,
+    "btts": 0.557,
+    "c35": 0.632,
+    "c45": 0.44
+   },
+   "likely": [
+    1,
+    1
+   ],
+   "pick": {
+    "code": "AM",
+    "prob": 0.557
+   },
+   "api": {
+    "1": 0.4505411391200799,
+    "x": 0.256,
+    "2": 0.373,
+    "uo": "-2.5"
+   },
+   "checks": {
+    "modelo": true,
+    "api": false,
+    "historial": false
+   },
+   "cons": 1
+  },
+  {
+   "id": 2004,
+   "league": {
+    "id": 140,
+    "name": "LaLiga",
+    "country": "España"
+   },
+   "time": "07:00",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "name": "Barcelona",
+    "form": "WWWWW"
+   },
+   "away": {
+    "name": "Osasuna",
+    "form": "WDDWD"
+   },
+   "score": null,
+   "xg": [
+    1.37,
+    1.02
+   ],
+   "cards": 4.3,
+   "p": {
+    "1": 0.45,
+    "x": 0.272,
+    "2": 0.278,
+    "o15": 0.69,
+    "o25": 0.428,
+    "o35": 0.219,
+    "btts": 0.477,
+    "c35": 0.629,
+    "c45": 0.436
+   },
+   "likely": [
+    1,
+    1
+   ],
+   "pick": {
+    "code": "-2.5",
+    "prob": 0.572
+   },
+   "api": {
+    "1": 0.3536867793397313,
+    "x": 0.272,
+    "2": 0.278,
+    "uo": "+2.5"
+   },
+   "checks": {
+    "modelo": true,
+    "api": false,
+    "historial": false
+   },
+   "cons": 1
+  },
+  {
+   "id": 2005,
+   "league": {
+    "id": 140,
+    "name": "LaLiga",
+    "country": "España"
+   },
+   "time": "07:00",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "name": "Real Madrid",
+    "form": "LDWWD"
+   },
+   "away": {
+    "name": "Villarreal",
+    "form": "WWDLW"
+   },
+   "score": null,
+   "xg": [
+    1.41,
+    1.23
+   ],
+   "cards": 5.0,
+   "p": {
+    "1": 0.411,
+    "x": 0.261,
+    "2": 0.328,
+    "o15": 0.739,
+    "o25": 0.49,
+    "o35": 0.271,
+    "btts": 0.533,
+    "c35": 0.729,
+    "c45": 0.552
+   },
+   "likely": [
+    1,
+    1
+   ],
+   "pick": {
+    "code": "AM",
+    "prob": 0.533
+   },
+   "api": {
+    "1": 0.44404553604315067,
+    "x": 0.261,
+    "2": 0.328,
+    "uo": "-2.5"
+   },
+   "checks": {
+    "modelo": false,
+    "api": false,
+    "historial": true
+   },
+   "cons": 1
+  },
+  {
+   "id": 2003,
+   "league": {
+    "id": 140,
+    "name": "LaLiga",
+    "country": "España"
+   },
+   "time": "09:15",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "name": "Getafe",
+    "form": "WDWLD"
+   },
+   "away": {
+    "name": "Atlético Madrid",
+    "form": "WLWDW"
+   },
+   "score": null,
+   "xg": [
+    1.67,
+    1.24
+   ],
+   "cards": 4.7,
+   "p": {
+    "1": 0.475,
+    "x": 0.241,
+    "2": 0.284,
+    "o15": 0.787,
+    "o25": 0.557,
+    "o35": 0.333,
+    "btts": 0.577,
+    "c35": 0.685,
+    "c45": 0.499
+   },
+   "likely": [
+    1,
+    1
+   ],
+   "pick": {
+    "code": "AM",
+    "prob": 0.577
+   },
+   "api": {
+    "1": 0.3917485052469036,
+    "x": 0.241,
+    "2": 0.284,
+    "uo": "+2.5"
+   },
+   "checks": {
+    "modelo": true,
+    "api": true,
+    "historial": false
+   },
+   "cons": 2
+  },
+  {
+   "id": 2001,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia"
+   },
+   "time": "11:15",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "name": "Santa Fe",
+    "form": "WWLWW"
+   },
+   "away": {
+    "name": "Unión Magdalena",
+    "form": "LWDWL"
+   },
+   "score": null,
+   "xg": [
+    1.57,
+    1.15
+   ],
+   "cards": 4.3,
+   "p": {
+    "1": 0.47,
+    "x": 0.25,
+    "2": 0.28,
+    "o15": 0.756,
+    "o25": 0.513,
+    "o35": 0.292,
+    "btts": 0.543,
+    "c35": 0.631,
+    "c45": 0.438
+   },
+   "likely": [
+    1,
+    1
+   ],
+   "pick": {
+    "code": "AM",
+    "prob": 0.543
+   },
+   "api": {
+    "1": 0.39432439087683613,
+    "x": 0.25,
+    "2": 0.28,
+    "uo": "-2.5"
+   },
+   "checks": {
+    "modelo": false,
+    "api": false,
+    "historial": false
+   },
+   "cons": 0
+  },
+  {
+   "id": 2002,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia"
+   },
+   "time": "16:15",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "name": "Once Caldas",
+    "form": "DWDWL"
+   },
+   "away": {
+    "name": "Atlético Nacional",
+    "form": "LLDLW"
+   },
+   "score": null,
+   "xg": [
+    1.43,
+    1.24
+   ],
+   "cards": 4.5,
+   "p": {
+    "1": 0.413,
+    "x": 0.259,
+    "2": 0.328,
+    "o15": 0.746,
+    "o25": 0.499,
+    "o35": 0.279,
+    "btts": 0.541,
+    "c35": 0.665,
+    "c45": 0.476
+   },
+   "likely": [
+    1,
+    1
+   ],
+   "pick": {
+    "code": "AM",
+    "prob": 0.541
+   },
+   "api": {
+    "1": 0.3314388052257162,
+    "x": 0.259,
+    "2": 0.328,
+    "uo": "-2.5"
+   },
+   "checks": {
+    "modelo": false,
+    "api": false,
+    "historial": false
+   },
+   "cons": 0
+  },
+  {
+   "id": 2006,
+   "league": {
+    "id": 135,
+    "name": "Serie A",
+    "country": "Italia"
+   },
+   "time": "07:15",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "name": "Inter",
+    "form": "WWDWD"
+   },
+   "away": {
+    "name": "Lazio",
+    "form": "WDWWL"
+   },
+   "score": null,
+   "xg": [
+    1.42,
+    1.06
+   ],
+   "cards": 4.9,
+   "p": {
+    "1": 0.453,
+    "x": 0.266,
+    "2": 0.281,
+    "o15": 0.71,
+    "o25": 0.453,
+    "o35": 0.239,
+    "btts": 0.497,
+    "c35": 0.721,
+    "c45": 0.542
+   },
+   "likely": [
+    1,
+    1
+   ],
+   "pick": {
+    "code": "-2.5",
+    "prob": 0.547
+   },
+   "api": {
+    "1": 0.35749882939405153,
+    "x": 0.266,
+    "2": 0.281,
+    "uo": "-2.5"
+   },
+   "checks": {
+    "modelo": false,
+    "api": true,
+    "historial": false
+   },
+   "cons": 1
+  }
+ ]
+}

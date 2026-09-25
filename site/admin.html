@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Goleo · Panel de administrador</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="styles.css">
+<style>
+.adm{max-width:900px;margin:0 auto;padding-inline:16px;padding-block:20px 60px;display:flex;flex-direction:column;gap:16px}
+.adm h1{margin:0}
+.box{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px;display:flex;flex-direction:column;gap:10px}
+.box h2{font-family:var(--display);font-size:20px;text-transform:uppercase;letter-spacing:.03em;margin:0}
+.box p.help{margin:0;color:var(--muted);font-size:13px}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:end}
+.fld{display:flex;flex-direction:column;gap:4px;flex:1;min-width:200px;font-size:12px;color:var(--muted)}
+input[type=text],input[type=password],textarea{font:inherit;font-size:14px;color:var(--ink);background:var(--surface-2);border:1px solid var(--line);border-radius:4px;padding:8px}
+textarea{min-height:70px;font-family:ui-monospace,Consolas,monospace;font-size:12px}
+.btn{font:600 14px var(--body);border:0;border-radius:6px;padding:10px 16px;cursor:pointer;background:var(--turf);color:#fff}
+.btn.sec{background:var(--surface-2);color:var(--ink);border:1px solid var(--line)}
+.btn:disabled{opacity:.5;cursor:default}
+.btn:focus-visible{outline:2px solid var(--yellow);outline-offset:2px}
+.status{padding:10px 14px;border-radius:6px;font-size:13px}
+.status.ok{background:var(--turf-soft);color:var(--turf)}
+.status.err{background:var(--red-soft);color:var(--red)}
+.status.info{background:var(--yellow-soft)}
+.mt{width:100%;border-collapse:collapse;min-width:0}
+.mt td,.mt th{padding:6px;border-bottom:1px solid var(--line);text-align:left;white-space:normal}
+.mt td.c{text-align:center}
+.lg{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:8px}
+.lg label{display:flex;gap:8px;align-items:center;background:var(--surface-2);border:1px solid var(--line);border-radius:6px;padding:8px;font-size:13px}
+.sticky{position:sticky;bottom:0;background:var(--bg);padding-block:12px;display:flex;gap:10px;flex-wrap:wrap;border-top:1px solid var(--line)}
+#app[hidden]{display:none}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap"><div><div class="brand">GOLE<b>O</b></div><div class="tag">Panel de administrador</div></div><div class="days"><a href="./" style="color:#EEF2EF">Ver la página →</a></div></div></header>
+
+<div class="adm">
+  <div class="box" id="login">
+    <h2>Entrar</h2>
+    <p class="help">Usa tu usuario de GitHub, el nombre del repositorio y tu clave de acceso (token). El token solo se guarda en este navegador si marcas "Recordar".</p>
+    <div class="row">
+      <label class="fld" for="repo">Repositorio (usuario/nombre)<input type="text" id="repo" placeholder="jorgecardona/goleo"></label>
+      <label class="fld" for="token">Token de GitHub<input type="password" id="token" placeholder="github_pat_..."></label>
+    </div>
+    <label class="chk" for="remember" style="display:flex;gap:6px;align-items:center;font-size:13px"><input type="checkbox" id="remember"> Recordar en este equipo</label>
+    <div class="row"><button class="btn" id="btn-login">Entrar</button><button class="btn sec" id="btn-logout" hidden>Salir</button></div>
+  </div>
+
+  <div id="msg"></div>
+
+  <div id="app" hidden>
+    <div class="box">
+      <h2>Aviso en la página</h2>
+      <p class="help">Texto que aparece arriba de los partidos. Déjalo vacío para no mostrar nada.</p>
+      <textarea id="notice" style="font-family:inherit;font-size:14px"></textarea>
+    </div>
+
+    <div class="box" style="margin-top:16px">
+      <h2>Partidos</h2>
+      <p class="help">Marca "Destacar" para ponerlo como Pick del día. Marca "Ocultar" para quitarlo de la página.</p>
+      <div style="overflow-x:auto"><table class="mt"><thead><tr><th>Día</th><th>Partido</th><th>Pick</th><th class="c">Destacar</th><th class="c">Ocultar</th></tr></thead><tbody id="matches"></tbody></table></div>
+    </div>
+
+    <div class="box" style="margin-top:16px">
+      <h2>Ligas</h2>
+      <p class="help">Los cambios se aplican en la próxima actualización de datos. Cada liga activa gasta consultas de la API; en el plan gratis conviene no pasar de 7 u 8.</p>
+      <div class="lg" id="leagues"></div>
+    </div>
+
+    <div class="box" style="margin-top:16px">
+      <h2>Publicidad</h2>
+      <p class="help">Pega aquí el código que te den AdSense o el programa de afiliados. Si un espacio queda vacío, no se muestra.</p>
+      <label class="chk" for="ph" style="display:flex;gap:6px;align-items:center;font-size:13px"><input type="checkbox" id="ph"> Mostrar recuadros grises de "Publicidad" en los espacios vacíos</label>
+      <label class="fld" for="ad-head">Código general (va en la cabecera, ej. el script de AdSense)<textarea id="ad-head"></textarea></label>
+      <label class="fld" for="ad-top">Banner superior (728 × 90)<textarea id="ad-top"></textarea></label>
+      <label class="fld" for="ad-inline">Banner dentro de la lista<textarea id="ad-inline"></textarea></label>
+      <label class="fld" for="ad-side1">Lateral 1 (300 × 250)<textarea id="ad-side1"></textarea></label>
+      <label class="fld" for="ad-side2">Lateral 2 (300 × 250)<textarea id="ad-side2"></textarea></label>
+    </div>
+
+    <div class="sticky">
+      <button class="btn" id="btn-save">Guardar y publicar</button>
+      <button class="btn sec" id="btn-run">Actualizar datos ahora</button>
+      <a class="btn sec" id="lnk-actions" target="_blank" rel="noopener" style="text-decoration:none">Ver actualizaciones en GitHub</a>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let repo = '', token = '', sha = null, cfg = null;
+const PATH = 'site/config.json';
+
+function msg(text, kind = 'info'){ $('msg').innerHTML = text ? `<div class="status ${kind}">${text}</div>` : ''; }
+function gh(path, opts = {}){
+  return fetch(`https://api.github.com/repos/${repo}/${path}`, {...opts, headers: {Authorization: `Bearer ${token}`, Accept: 'application/vnd.github+json', ...(opts.headers || {})}});
+}
+const b64dec = s => decodeURIComponent(escape(atob(s.replace(/\n/g, ''))));
+const b64enc = s => btoa(unescape(encodeURIComponent(s)));
+
+try { const saved = JSON.parse(localStorage.getItem('goleo-admin') || 'null'); if (saved) { $('repo').value = saved.repo; $('token').value = saved.token; $('remember').checked = true; } } catch {}
+
+$('btn-login').onclick = async () => {
+  repo = $('repo').value.trim().replace(/^https:\/\/github.com\//, '').replace(/\/$/, '');
+  token = $('token').value.trim();
+  if (!repo.includes('/') || !token) return msg('Escribe el repositorio como usuario/nombre y pega tu token.', 'err');
+  msg('Conectando…');
+  const r = await gh(`contents/${PATH}`);
+  if (r.status === 401) return msg('El token no es válido o expiró. Crea uno nuevo en GitHub.', 'err');
+  if (r.status === 404) return msg('No encontré el repositorio o el token no tiene permiso sobre él. Revisa el nombre y los permisos del token.', 'err');
+  if (!r.ok) return msg('GitHub respondió con un error (' + r.status + '). Intenta de nuevo en un momento.', 'err');
+  const j = await r.json(); sha = j.sha; cfg = JSON.parse(b64dec(j.content));
+  try { if ($('remember').checked) localStorage.setItem('goleo-admin', JSON.stringify({repo, token})); else localStorage.removeItem('goleo-admin'); } catch {}
+  $('app').hidden = false; $('btn-logout').hidden = false;
+  $('lnk-actions').href = `https://github.com/${repo}/actions`;
+  msg('');
+  fill();
+};
+$('btn-logout').onclick = () => { try { localStorage.removeItem('goleo-admin'); } catch {} location.reload(); };
+
+async function fill(){
+  $('notice').value = cfg.notice || '';
+  $('ph').checked = !!cfg.showAdPlaceholders;
+  ['head','top','inline','side1','side2'].forEach(k => $('ad-' + k).value = (cfg.ads || {})[k] || '');
+  $('leagues').innerHTML = Object.entries(cfg.leagues || {}).map(([id, l]) =>
+    `<label for="lg-${id}"><input type="checkbox" id="lg-${id}" data-id="${id}" ${l.on ? 'checked' : ''}> ${esc(l.name)} <small style="color:var(--muted)">${esc(l.country)}</small></label>`).join('');
+  // partidos de hoy y mañana
+  let rows = '';
+  try {
+    const idx = await (await fetch('data/index.json?v=' + Date.now())).json();
+    for (const [label, key] of [['Hoy', 'hoy'], ['Mañana', 'manana']]) {
+      const d = await (await fetch(`data/${idx.days[key]}.json?v=` + Date.now())).json();
+      for (const m of d.matches) {
+        const id = String(m.id);
+        rows += `<tr><td>${label} ${esc(m.time)}</td><td>${esc(m.home.name)} vs ${esc(m.away.name)}<br><small style="color:var(--muted)">${esc(m.league.name)}</small></td>
+          <td>${m.pick ? esc(m.pick.code) + ' · ' + Math.round(m.pick.prob * 100) + '% · ' + m.cons + '/3' : '—'}</td>
+          <td class="c"><input type="checkbox" class="feat" aria-label="Destacar" data-id="${id}" ${(cfg.featured || []).map(String).includes(id) ? 'checked' : ''}></td>
+          <td class="c"><input type="checkbox" class="hide" aria-label="Ocultar" data-id="${id}" ${(cfg.hidden || []).map(String).includes(id) ? 'checked' : ''}></td></tr>`;
+      }
+    }
+  } catch { rows = ''; }
+  $('matches').innerHTML = rows || '<tr><td colspan="5" style="color:var(--muted)">Todavía no hay partidos cargados.</td></tr>';
+}
+
+$('btn-save').onclick = async () => {
+  cfg.notice = $('notice').value.trim();
+  cfg.showAdPlaceholders = $('ph').checked;
+  cfg.ads = {}; ['head','top','inline','side1','side2'].forEach(k => cfg.ads[k] = $('ad-' + k).value.trim());
+  document.querySelectorAll('#leagues input').forEach(i => cfg.leagues[i.dataset.id].on = i.checked);
+  // se conservan destacados/ocultos de días que ya no aparecen en la lista solo si siguen en pantalla
+  cfg.featured = [...document.querySelectorAll('input.feat:checked')].map(i => Number(i.dataset.id));
+  cfg.hidden = [...document.querySelectorAll('input.hide:checked')].map(i => Number(i.dataset.id));
+  $('btn-save').disabled = true; msg('Guardando…');
+  const r = await gh(`contents/${PATH}`, {method: 'PUT', body: JSON.stringify({message: 'Panel: actualizar configuración', content: b64enc(JSON.stringify(cfg, null, 1) + '\n'), sha})});
+  $('btn-save').disabled = false;
+  if (r.status === 409) return msg('La configuración cambió en otro lado. Recarga el panel y vuelve a intentarlo.', 'err');
+  if (!r.ok) return msg('No se pudo guardar (' + r.status + '). Revisa que el token tenga permiso de escritura en "Contents".', 'err');
+  sha = (await r.json()).content.sha;
+  msg('Guardado. La página se publica de nuevo en uno o dos minutos.', 'ok');
+};
+
+$('btn-run').onclick = async () => {
+  $('btn-run').disabled = true; msg('Pidiendo la actualización…');
+  const r = await gh('actions/workflows/actualizar.yml/dispatches', {method: 'POST', body: JSON.stringify({ref: 'main'})});
+  $('btn-run').disabled = false;
+  if (r.status === 204) msg('Listo. Los datos nuevos aparecen en unos 3 a 5 minutos. Puedes ver el avance en "Ver actualizaciones en GitHub".', 'ok');
+  else msg('No se pudo iniciar (' + r.status + '). Revisa que el token tenga permiso en "Actions".', 'err');
+};
+})();
+</script>
+</body>
+</html>

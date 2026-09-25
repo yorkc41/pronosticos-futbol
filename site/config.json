@@ -1,0 +1,25 @@
+{
+ "siteName": "Goleo",
+ "notice": "",
+ "featured": [],
+ "hidden": [],
+ "showAdPlaceholders": true,
+ "ads": {
+  "head": "",
+  "top": "",
+  "inline": "",
+  "side1": "",
+  "side2": ""
+ },
+ "leagues": {
+  "239": {"name": "Liga BetPlay", "country": "Colombia", "on": true},
+  "39": {"name": "Premier League", "country": "Inglaterra", "on": true},
+  "140": {"name": "LaLiga", "country": "España", "on": true},
+  "135": {"name": "Serie A", "country": "Italia", "on": true},
+  "78": {"name": "Bundesliga", "country": "Alemania", "on": true},
+  "13": {"name": "Copa Libertadores", "country": "Sudamérica", "on": true},
+  "2": {"name": "Champions League", "country": "Europa", "on": true},
+  "61": {"name": "Ligue 1", "country": "Francia", "on": false},
+  "11": {"name": "Copa Sudamericana", "country": "Sudamérica", "on": false}
+ }
+}

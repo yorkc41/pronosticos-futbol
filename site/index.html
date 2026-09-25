@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Goleo · Pronósticos de fútbol, goles y tarjetas</title>
+<meta name="description" content="Probabilidades de los partidos de hoy: 1X2, Over 2.5, ambos marcan y tarjetas. Liga BetPlay, Premier, LaLiga, Serie A, Bundesliga, Libertadores y Champions.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div>
+      <div class="brand" id="brand">GOLE<b>O</b></div>
+      <div class="tag">Probabilidades de fútbol · goles · tarjetas</div>
+    </div>
+    <div class="days" role="group" aria-label="Día">
+      <button id="d-ayer" aria-pressed="false" data-d="ayer">Ayer</button>
+      <button id="d-hoy" aria-pressed="true" data-d="hoy">Hoy</button>
+      <button id="d-manana" aria-pressed="false" data-d="manana">Mañana</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="notice" id="notice" hidden></div>
+  <div class="ad leader" data-slot="top"></div>
+
+  <div class="layout">
+    <main>
+      <h1 id="title">Partidos de hoy</h1>
+      <p class="sub" id="subtitle">Cargando…</p>
+
+      <div id="featured"></div>
+      <div id="record" class="record" hidden></div>
+
+      <div class="controls">
+        <label for="f-league">Liga
+          <select id="f-league"><option value="">Todas</option></select>
+        </label>
+        <label for="f-sort">Ordenar
+          <select id="f-sort">
+            <option value="time">Por liga y hora</option>
+            <option value="o25">Mayor % Over 2.5</option>
+            <option value="btts">Mayor % Ambos marcan</option>
+            <option value="cards">Más tarjetas esperadas</option>
+            <option value="cons">Más fuentes de acuerdo</option>
+          </select>
+        </label>
+        <label class="chk" for="f-over"><input type="checkbox" id="f-over"> Solo Over 2.5 ≥ 60 %</label>
+      </div>
+
+      <div id="list"></div>
+
+      <div class="legend">
+        <span><span class="pct hi">62</span> probabilidad alta</span>
+        <span><span class="cons"><i class="on"></i><i class="on"></i><i></i></span> fuentes que apoyan el pick (modelo · predicción externa · historial)</span>
+        <span>xG = goles esperados · AM = ambos marcan · Toca un partido para ver el detalle</span>
+      </div>
+    </main>
+
+    <aside class="side">
+      <div class="ad box" data-slot="side1"></div>
+      <div class="panel">
+        <h3>Cómo calculamos</h3>
+        <p>Con los goles a favor y en contra de cada equipo (en casa y de visita) calculamos los goles esperados y aplicamos Poisson para sacar 1X2, Over/Under y ambos marcan. Las tarjetas salen del promedio de amarillas y rojas de los dos equipos. Luego comparamos el pick con una predicción externa y con la forma reciente.</p>
+      </div>
+      <div class="ad box" data-slot="side2"></div>
+    </aside>
+  </div>
+
+  <footer>
+    <div class="resp"><div class="age">+18</div><div>Contenido informativo. Ningún pronóstico garantiza el resultado. Apuesta con responsabilidad y solo en operadores autorizados por Coljuegos.</div></div>
+    <div><a href="privacidad.html">Privacidad</a> · © <span id="year"></span> Goleo</div>
+  </footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
