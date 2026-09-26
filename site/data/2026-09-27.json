@@ -1,0 +1,78 @@
+{
+ "date": "2026-09-27",
+ "updated": "2026-09-26T09:23-05:00",
+ "matches": [
+  {
+   "id": 1549798,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "16:00",
+   "status": "NS",
+   "referee": "Wilmar Roldan",
+   "home": {
+    "id": 1133,
+    "name": "Jaguares",
+    "logo": "https://media.api-sports.io/football/teams/1133.png"
+   },
+   "away": {
+    "id": 1141,
+    "name": "Alianza Valledupar",
+    "logo": "https://media.api-sports.io/football/teams/1141.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549797,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "18:05",
+   "status": "NS",
+   "referee": "Luis Matorel Bolivar",
+   "home": {
+    "id": 1147,
+    "name": "Fortaleza FC",
+    "logo": "https://media.api-sports.io/football/teams/1147.png"
+   },
+   "away": {
+    "id": 1142,
+    "name": "Deportes Tolima",
+    "logo": "https://media.api-sports.io/football/teams/1142.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549706,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "20:10",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 1127,
+    "name": "Deportivo Cali",
+    "logo": "https://media.api-sports.io/football/teams/1127.png"
+   },
+   "away": {
+    "id": 1144,
+    "name": "Águilas Doradas",
+    "logo": "https://media.api-sports.io/football/teams/1144.png"
+   },
+   "score": null
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "updated": "2026-09-25T14:19-05:00",
+ "updated": "2026-09-26T09:23-05:00",
  "matches": [
   {
    "id": 1549795,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "18:10",
-   "status": "NS",
+   "status": "FT",
    "referee": "Javier Alonso Villa Zapata",
    "home": {
     "id": 1132,
@@ -24,7 +24,10 @@
     "name": "Deportivo Pasto",
     "logo": "https://media.api-sports.io/football/teams/1126.png"
    },
-   "score": null
+   "score": [
+    3,
+    0
+   ]
   },
   {
    "id": 1549800,
@@ -36,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "20:15",
-   "status": "NS",
+   "status": "FT",
    "referee": "Ferney·Ossa·Orozco",
    "home": {
     "id": 1136,
@@ -48,7 +51,10 @@
     "name": "Bucaramanga",
     "logo": "https://media.api-sports.io/football/teams/1131.png"
    },
-   "score": null
+   "score": [
+    1,
+    3
+   ]
   }
  ]
 }
