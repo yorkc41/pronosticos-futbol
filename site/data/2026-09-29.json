@@ -1,0 +1,54 @@
+{
+ "date": "2026-09-29",
+ "updated": "2026-09-28T13:07-05:00",
+ "matches": [
+  {
+   "id": 1549712,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "15:30",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 1462,
+    "name": "Deportivo Pereira",
+    "logo": "https://media.api-sports.io/football/teams/1462.png"
+   },
+   "away": {
+    "id": 1139,
+    "name": "Santa Fe",
+    "logo": "https://media.api-sports.io/football/teams/1139.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549719,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "20:05",
+   "status": "NS",
+   "referee": "Jairo Londono",
+   "home": {
+    "id": 1128,
+    "name": "Independiente Medellin",
+    "logo": "https://media.api-sports.io/football/teams/1128.png"
+   },
+   "away": {
+    "id": 1125,
+    "name": "Millonarios",
+    "logo": "https://media.api-sports.io/football/teams/1125.png"
+   },
+   "score": null
+  }
+ ]
+}
