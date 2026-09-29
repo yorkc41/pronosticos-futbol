@@ -1,0 +1,30 @@
+{
+ "date": "2026-09-30",
+ "updated": "2026-09-29T11:28-05:00",
+ "matches": [
+  {
+   "id": 1549703,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "20:00",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 1137,
+    "name": "Atletico Nacional",
+    "logo": "https://media.api-sports.io/football/teams/1137.png"
+   },
+   "away": {
+    "id": 1135,
+    "name": "Junior",
+    "logo": "https://media.api-sports.io/football/teams/1135.png"
+   },
+   "score": null
+  }
+ ]
+}
