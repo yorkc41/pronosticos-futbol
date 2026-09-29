@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "updated": "2026-09-29T11:28-05:00",
+ "updated": "2026-09-29T16:21-05:00",
  "matches": [
   {
    "id": 1549712,
@@ -12,8 +12,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "15:30",
-   "status": "NS",
-   "referee": null,
+   "status": "1H",
+   "referee": "Jose Alexander Ortiz Novoa",
    "home": {
     "id": 1462,
     "name": "Deportivo Pereira",
@@ -24,7 +24,10 @@
     "name": "Santa Fe",
     "logo": "https://media.api-sports.io/football/teams/1139.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   },
   {
    "id": 1549719,
