@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "updated": "2026-09-30T16:23-05:00",
+ "updated": "2026-10-01T11:59-05:00",
  "matches": [
   {
    "id": 1549703,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "20:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Andres Rojas",
    "home": {
     "id": 1137,
@@ -24,7 +24,10 @@
     "name": "Junior",
     "logo": "https://media.api-sports.io/football/teams/1135.png"
    },
-   "score": null
+   "score": [
+    3,
+    1
+   ]
   }
  ]
 }
