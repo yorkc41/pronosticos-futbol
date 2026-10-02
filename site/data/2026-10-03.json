@@ -1,0 +1,54 @@
+{
+ "date": "2026-10-03",
+ "updated": "2026-10-02T11:14-05:00",
+ "matches": [
+  {
+   "id": 1549803,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Jose Alexander Ortiz Novoa",
+   "home": {
+    "id": 1144,
+    "name": "Águilas Doradas",
+    "logo": "https://media.api-sports.io/football/teams/1144.png"
+   },
+   "away": {
+    "id": 1133,
+    "name": "Jaguares",
+    "logo": "https://media.api-sports.io/football/teams/1133.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549807,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "16:05",
+   "status": "NS",
+   "referee": "Andres Rojas",
+   "home": {
+    "id": 1142,
+    "name": "Deportes Tolima",
+    "logo": "https://media.api-sports.io/football/teams/1142.png"
+   },
+   "away": {
+    "id": 1132,
+    "name": "Chico",
+    "logo": "https://media.api-sports.io/football/teams/1132.png"
+   },
+   "score": null
+  }
+ ]
+}
