@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "updated": "2026-10-02T16:16-05:00",
+ "updated": "2026-10-03T09:42-05:00",
  "matches": [
   {
    "id": 1549806,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "19:45",
-   "status": "NS",
+   "status": "FT",
    "referee": "Jairo Londono",
    "home": {
     "id": 1127,
@@ -24,7 +24,10 @@
     "name": "Alianza Valledupar",
     "logo": "https://media.api-sports.io/football/teams/1141.png"
    },
-   "score": null
+   "score": [
+    3,
+    1
+   ]
   }
  ]
 }

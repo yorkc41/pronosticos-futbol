@@ -1,0 +1,126 @@
+{
+ "date": "2026-10-04",
+ "updated": "2026-10-03T09:42-05:00",
+ "matches": [
+  {
+   "id": 1549808,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Bryan Loayza",
+   "home": {
+    "id": 1126,
+    "name": "Deportivo Pasto",
+    "logo": "https://media.api-sports.io/football/teams/1126.png"
+   },
+   "away": {
+    "id": 1147,
+    "name": "Fortaleza FC",
+    "logo": "https://media.api-sports.io/football/teams/1147.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549805,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "16:05",
+   "status": "NS",
+   "referee": "Diego Ulloa Angulo",
+   "home": {
+    "id": 1470,
+    "name": "Cucuta",
+    "logo": "https://media.api-sports.io/football/teams/1470.png"
+   },
+   "away": {
+    "id": 1462,
+    "name": "Deportivo Pereira",
+    "logo": "https://media.api-sports.io/football/teams/1462.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549849,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "16:05",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 1134,
+    "name": "Internacional de Bogota",
+    "logo": "https://media.api-sports.io/football/teams/1134.png"
+   },
+   "away": {
+    "id": 1136,
+    "name": "Once Caldas",
+    "logo": "https://media.api-sports.io/football/teams/1136.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549804,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "18:10",
+   "status": "NS",
+   "referee": "Wilmar Roldan",
+   "home": {
+    "id": 1131,
+    "name": "Bucaramanga",
+    "logo": "https://media.api-sports.io/football/teams/1131.png"
+   },
+   "away": {
+    "id": 1135,
+    "name": "Junior",
+    "logo": "https://media.api-sports.io/football/teams/1135.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549811,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "20:15",
+   "status": "NS",
+   "referee": "Carlos Ortega",
+   "home": {
+    "id": 1464,
+    "name": "Llaneros",
+    "logo": "https://media.api-sports.io/football/teams/1464.png"
+   },
+   "away": {
+    "id": 1138,
+    "name": "America de Cali",
+    "logo": "https://media.api-sports.io/football/teams/1138.png"
+   },
+   "score": null
+  }
+ ]
+}
