@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "updated": "2026-10-03T14:46-05:00",
+ "updated": "2026-10-04T10:18-05:00",
  "matches": [
   {
    "id": 1549803,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "14:00",
-   "status": "1H",
+   "status": "FT",
    "referee": "Jose Alexander Ortiz Novoa",
    "home": {
     "id": 1144,
@@ -25,7 +25,7 @@
     "logo": "https://media.api-sports.io/football/teams/1133.png"
    },
    "score": [
-    0,
+    2,
     0
    ]
   },
@@ -39,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "16:05",
-   "status": "NS",
+   "status": "FT",
    "referee": "Andres Rojas",
    "home": {
     "id": 1142,
@@ -51,7 +51,10 @@
     "name": "Chico",
     "logo": "https://media.api-sports.io/football/teams/1132.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   }
  ]
 }
