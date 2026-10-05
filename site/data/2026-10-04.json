@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "updated": "2026-10-04T15:04-05:00",
+ "updated": "2026-10-05T14:15-05:00",
  "matches": [
   {
    "id": 1549808,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "14:00",
-   "status": "HT",
+   "status": "FT",
    "referee": "Bryan Loayza",
    "home": {
     "id": 1126,
@@ -39,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "16:05",
-   "status": "NS",
+   "status": "FT",
    "referee": "Diego Ulloa Angulo",
    "home": {
     "id": 1470,
@@ -51,7 +51,10 @@
     "name": "Deportivo Pereira",
     "logo": "https://media.api-sports.io/football/teams/1462.png"
    },
-   "score": null
+   "score": [
+    4,
+    0
+   ]
   },
   {
    "id": 1549849,
@@ -63,8 +66,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "16:05",
-   "status": "NS",
-   "referee": null,
+   "status": "FT",
+   "referee": "Jonnathan Ortiz",
    "home": {
     "id": 1134,
     "name": "Internacional de Bogota",
@@ -75,7 +78,10 @@
     "name": "Once Caldas",
     "logo": "https://media.api-sports.io/football/teams/1136.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   },
   {
    "id": 1549804,
@@ -87,7 +93,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "18:10",
-   "status": "NS",
+   "status": "FT",
    "referee": "Wilmar Roldan",
    "home": {
     "id": 1131,
@@ -99,7 +105,10 @@
     "name": "Junior",
     "logo": "https://media.api-sports.io/football/teams/1135.png"
    },
-   "score": null
+   "score": [
+    3,
+    1
+   ]
   },
   {
    "id": 1549811,
@@ -111,7 +120,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "20:15",
-   "status": "NS",
+   "status": "FT",
    "referee": "Carlos Ortega",
    "home": {
     "id": 1464,
@@ -123,7 +132,10 @@
     "name": "America de Cali",
     "logo": "https://media.api-sports.io/football/teams/1138.png"
    },
-   "score": null
+   "score": [
+    1,
+    2
+   ]
   }
  ]
 }
