@@ -1,0 +1,54 @@
+{
+ "date": "2026-10-08",
+ "updated": "2026-10-07T12:24-05:00",
+ "matches": [
+  {
+   "id": 1549764,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "18:05",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 1137,
+    "name": "Atletico Nacional",
+    "logo": "https://media.api-sports.io/football/teams/1137.png"
+   },
+   "away": {
+    "id": 1142,
+    "name": "Deportes Tolima",
+    "logo": "https://media.api-sports.io/football/teams/1142.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549817,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "20:10",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 1147,
+    "name": "Fortaleza FC",
+    "logo": "https://media.api-sports.io/football/teams/1147.png"
+   },
+   "away": {
+    "id": 1125,
+    "name": "Millonarios",
+    "logo": "https://media.api-sports.io/football/teams/1125.png"
+   },
+   "score": null
+  }
+ ]
+}
