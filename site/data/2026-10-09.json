@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "updated": "2026-10-09T11:57-05:00",
+ "updated": "2026-10-09T16:35-05:00",
  "matches": [
   {
    "id": 1575176,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "13:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Christian Dingert",
    "home": {
     "id": 165,
@@ -24,7 +24,10 @@
     "name": "Werder Bremen",
     "logo": "https://media.api-sports.io/football/teams/162.png"
    },
-   "score": null
+   "score": [
+    2,
+    2
+   ]
   },
   {
    "id": 1570408,
@@ -36,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Francisco Jose Hernandez Maeso",
    "home": {
     "id": 535,
@@ -48,7 +51,10 @@
     "name": "Espanyol",
     "logo": "https://media.api-sports.io/football/teams/540.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   },
   {
    "id": 1549813,
