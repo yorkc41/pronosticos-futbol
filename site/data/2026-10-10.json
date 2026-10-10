@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "updated": "2026-10-09T16:35-05:00",
+ "updated": "2026-10-10T10:51-05:00",
  "matches": [
   {
    "id": 1575178,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Harm Osmers",
    "home": {
     "id": 167,
@@ -24,7 +24,10 @@
     "name": "Hamburger SV",
     "logo": "https://media.api-sports.io/football/teams/175.png"
    },
-   "score": null
+   "score": [
+    2,
+    3
+   ]
   },
   {
    "id": 1575180,
@@ -36,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Sven Jablonski",
    "home": {
     "id": 170,
@@ -48,7 +51,10 @@
     "name": "Bayern München",
     "logo": "https://media.api-sports.io/football/teams/157.png"
    },
-   "score": null
+   "score": [
+    2,
+    2
+   ]
   },
   {
    "id": 1575181,
@@ -60,7 +66,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Max Burda",
    "home": {
     "id": 164,
@@ -72,7 +78,10 @@
     "name": "Bayer Leverkusen",
     "logo": "https://media.api-sports.io/football/teams/168.png"
    },
-   "score": null
+   "score": [
+    3,
+    4
+   ]
   },
   {
    "id": 1575182,
@@ -84,7 +93,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Tobias Reichel",
    "home": {
     "id": 182,
@@ -96,7 +105,10 @@
     "name": "SV Elversberg",
     "logo": "https://media.api-sports.io/football/teams/1660.png"
    },
-   "score": null
+   "score": [
+    1,
+    0
+   ]
   },
   {
    "id": 1575184,
@@ -108,7 +120,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Felix Zwayer",
    "home": {
     "id": 185,
@@ -120,7 +132,10 @@
     "name": "VfB Stuttgart",
     "logo": "https://media.api-sports.io/football/teams/172.png"
    },
-   "score": null
+   "score": [
+    0,
+    2
+   ]
   },
   {
    "id": 1575177,
@@ -156,8 +171,8 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "07:00",
-   "status": "NS",
-   "referee": null,
+   "status": "INT",
+   "referee": "Jose Maria Sanchez Martinez",
    "home": {
     "id": 728,
     "name": "Rayo Vallecano",
@@ -168,7 +183,10 @@
     "name": "Athletic Club",
     "logo": "https://media.api-sports.io/football/teams/531.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1570403,
@@ -180,8 +198,8 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "09:15",
-   "status": "NS",
-   "referee": null,
+   "status": "2H",
+   "referee": "Alejandro Quintero Gonzalez",
    "home": {
     "id": 542,
     "name": "Alaves",
@@ -192,7 +210,10 @@
     "name": "Atletico Madrid",
     "logo": "https://media.api-sports.io/football/teams/530.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   },
   {
    "id": 1570404,
@@ -205,7 +226,7 @@
    },
    "time": "11:30",
    "status": "NS",
-   "referee": null,
+   "referee": "Jesus Gil Manzano",
    "home": {
     "id": 529,
     "name": "Barcelona",
@@ -229,7 +250,7 @@
    },
    "time": "14:00",
    "status": "NS",
-   "referee": null,
+   "referee": "Isidro Diaz de Mera Escuderos",
    "home": {
     "id": 541,
     "name": "Real Madrid",
@@ -324,7 +345,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "06:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Paul Tierney",
    "home": {
     "id": 42,
@@ -336,7 +357,10 @@
     "name": "Leeds",
     "logo": "https://media.api-sports.io/football/teams/63.png"
    },
-   "score": null
+   "score": [
+    2,
+    1
+   ]
   },
   {
    "id": 1557418,
@@ -348,7 +372,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "09:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Craig Pawson",
    "home": {
     "id": 66,
@@ -360,7 +384,10 @@
     "name": "Brentford",
     "logo": "https://media.api-sports.io/football/teams/55.png"
    },
-   "score": null
+   "score": [
+    2,
+    2
+   ]
   },
   {
    "id": 1557419,
@@ -372,7 +399,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "09:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Samuel Barrott",
    "home": {
     "id": 49,
@@ -384,7 +411,10 @@
     "name": "Bournemouth",
     "logo": "https://media.api-sports.io/football/teams/35.png"
    },
-   "score": null
+   "score": [
+    5,
+    1
+   ]
   },
   {
    "id": 1557423,
@@ -396,7 +426,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "09:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Lewis Smith",
    "home": {
     "id": 57,
@@ -408,7 +438,10 @@
     "name": "Fulham",
     "logo": "https://media.api-sports.io/football/teams/36.png"
    },
-   "score": null
+   "score": [
+    2,
+    1
+   ]
   },
   {
    "id": 1557426,
@@ -420,7 +453,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "09:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Thomas Bramall",
    "home": {
     "id": 746,
@@ -432,7 +465,10 @@
     "name": "Brighton",
     "logo": "https://media.api-sports.io/football/teams/51.png"
    },
-   "score": null
+   "score": [
+    0,
+    1
+   ]
   },
   {
    "id": 1557425,
@@ -468,7 +504,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "08:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Fabio Maresca",
    "home": {
     "id": 495,
@@ -480,7 +516,10 @@
     "name": "Fiorentina",
     "logo": "https://media.api-sports.io/football/teams/502.png"
    },
-   "score": null
+   "score": [
+    2,
+    1
+   ]
   },
   {
    "id": 1550141,
