@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "updated": "2026-10-10T10:51-05:00",
+ "updated": "2026-10-10T15:32-05:00",
  "matches": [
   {
    "id": 1575178,
@@ -147,7 +147,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "11:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Daniel Siebert",
    "home": {
     "id": 173,
@@ -159,7 +159,10 @@
     "name": "Eintracht Frankfurt",
     "logo": "https://media.api-sports.io/football/teams/169.png"
    },
-   "score": null
+   "score": [
+    6,
+    0
+   ]
   },
   {
    "id": 1570410,
@@ -198,7 +201,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "09:15",
-   "status": "2H",
+   "status": "FT",
    "referee": "Alejandro Quintero Gonzalez",
    "home": {
     "id": 542,
@@ -212,7 +215,7 @@
    },
    "score": [
     1,
-    1
+    2
    ]
   },
   {
@@ -225,7 +228,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "11:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Jesus Gil Manzano",
    "home": {
     "id": 529,
@@ -237,7 +240,10 @@
     "name": "Getafe",
     "logo": "https://media.api-sports.io/football/teams/546.png"
    },
-   "score": null
+   "score": [
+    3,
+    0
+   ]
   },
   {
    "id": 1570411,
@@ -249,7 +255,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Isidro Diaz de Mera Escuderos",
    "home": {
     "id": 541,
@@ -261,7 +267,10 @@
     "name": "Villarreal",
     "logo": "https://media.api-sports.io/football/teams/533.png"
    },
-   "score": null
+   "score": [
+    2,
+    0
+   ]
   },
   {
    "id": 1549821,
@@ -273,7 +282,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "15:30",
-   "status": "NS",
+   "status": "1H",
    "referee": "Jonnathan Ortiz",
    "home": {
     "id": 1462,
@@ -285,7 +294,10 @@
     "name": "Deportivo Cali",
     "logo": "https://media.api-sports.io/football/teams/1127.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1549819,
@@ -372,7 +384,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "09:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Craig Pawson",
    "home": {
     "id": 66,
@@ -399,7 +411,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "09:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Samuel Barrott",
    "home": {
     "id": 49,
@@ -426,7 +438,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "09:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Lewis Smith",
    "home": {
     "id": 57,
@@ -453,7 +465,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "09:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Thomas Bramall",
    "home": {
     "id": 746,
@@ -467,7 +479,7 @@
    },
    "score": [
     0,
-    1
+    2
    ]
   },
   {
@@ -480,7 +492,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "11:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Stuart Attwell",
    "home": {
     "id": 33,
@@ -492,7 +504,10 @@
     "name": "Tottenham",
     "logo": "https://media.api-sports.io/football/teams/47.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   },
   {
    "id": 1550140,
@@ -531,7 +546,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "11:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Kevin Bonacina",
    "home": {
     "id": 505,
@@ -543,7 +558,10 @@
     "name": "Parma",
     "logo": "https://media.api-sports.io/football/teams/523.png"
    },
-   "score": null
+   "score": [
+    3,
+    0
+   ]
   },
   {
    "id": 1550144,
@@ -555,7 +573,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "13:45",
-   "status": "NS",
+   "status": "2H",
    "referee": "Ermanno Feliciani",
    "home": {
     "id": 492,
@@ -567,7 +585,10 @@
     "name": "Frosinone",
     "logo": "https://media.api-sports.io/football/teams/512.png"
    },
-   "score": null
+   "score": [
+    2,
+    0
+   ]
   }
  ]
 }
