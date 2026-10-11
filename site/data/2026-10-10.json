@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "updated": "2026-10-10T15:32-05:00",
+ "updated": "2026-10-11T11:17-05:00",
  "matches": [
   {
    "id": 1575178,
@@ -255,7 +255,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Isidro Diaz de Mera Escuderos",
    "home": {
     "id": 541,
@@ -268,7 +268,7 @@
     "logo": "https://media.api-sports.io/football/teams/533.png"
    },
    "score": [
-    2,
+    1,
     0
    ]
   },
@@ -282,7 +282,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "15:30",
-   "status": "1H",
+   "status": "FT",
    "referee": "Jonnathan Ortiz",
    "home": {
     "id": 1462,
@@ -309,7 +309,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "18:10",
-   "status": "NS",
+   "status": "FT",
    "referee": "Diego Ulloa Angulo",
    "home": {
     "id": 1135,
@@ -321,7 +321,10 @@
     "name": "Internacional de Bogota",
     "logo": "https://media.api-sports.io/football/teams/1134.png"
    },
-   "score": null
+   "score": [
+    2,
+    2
+   ]
   },
   {
    "id": 1549815,
@@ -573,7 +576,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "13:45",
-   "status": "2H",
+   "status": "FT",
    "referee": "Ermanno Feliciani",
    "home": {
     "id": 492,
@@ -586,7 +589,7 @@
     "logo": "https://media.api-sports.io/football/teams/512.png"
    },
    "score": [
-    2,
+    3,
     0
    ]
   }

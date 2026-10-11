@@ -1,0 +1,102 @@
+{
+ "date": "2026-10-12",
+ "updated": "2026-10-11T11:17-05:00",
+ "matches": [
+  {
+   "id": 1570407,
+   "league": {
+    "id": 140,
+    "name": "LaLiga",
+    "country": "Spain",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/140.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 539,
+    "name": "Levante",
+    "logo": "https://media.api-sports.io/football/teams/539.png"
+   },
+   "away": {
+    "id": 536,
+    "name": "Sevilla",
+    "logo": "https://media.api-sports.io/football/teams/536.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1557420,
+   "league": {
+    "id": 39,
+    "name": "Premier League",
+    "country": "England",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/39.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "John Brooks",
+   "home": {
+    "id": 1346,
+    "name": "Coventry",
+    "logo": "https://media.api-sports.io/football/teams/1346.png"
+   },
+   "away": {
+    "id": 34,
+    "name": "Newcastle",
+    "logo": "https://media.api-sports.io/football/teams/34.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1550137,
+   "league": {
+    "id": 135,
+    "name": "Serie A",
+    "country": "Italy",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/135.png"
+   },
+   "time": "11:30",
+   "status": "NS",
+   "referee": "Paride Tremolada",
+   "home": {
+    "id": 499,
+    "name": "Atalanta",
+    "logo": "https://media.api-sports.io/football/teams/499.png"
+   },
+   "away": {
+    "id": 517,
+    "name": "Venezia",
+    "logo": "https://media.api-sports.io/football/teams/517.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1550146,
+   "league": {
+    "id": 135,
+    "name": "Serie A",
+    "country": "Italy",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/135.png"
+   },
+   "time": "13:45",
+   "status": "NS",
+   "referee": "Valerio Crezzini",
+   "home": {
+    "id": 503,
+    "name": "Torino",
+    "logo": "https://media.api-sports.io/football/teams/503.png"
+   },
+   "away": {
+    "id": 494,
+    "name": "Udinese",
+    "logo": "https://media.api-sports.io/football/teams/494.png"
+   },
+   "score": null
+  }
+ ]
+}
