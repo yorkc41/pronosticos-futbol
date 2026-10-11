@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "updated": "2026-10-11T11:17-05:00",
+ "updated": "2026-10-11T15:54-05:00",
  "matches": [
   {
    "id": 1575183,
@@ -39,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "10:30",
-   "status": "1H",
+   "status": "FT",
    "referee": "Martin Petersen",
    "home": {
     "id": 160,
@@ -52,7 +52,7 @@
     "logo": "https://media.api-sports.io/football/teams/174.png"
    },
    "score": [
-    1,
+    2,
     1
    ]
   },
@@ -120,7 +120,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "11:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Carlos Muñiz Muñoz",
    "home": {
     "id": 543,
@@ -132,7 +132,10 @@
     "name": "Osasuna",
     "logo": "https://media.api-sports.io/football/teams/727.png"
    },
-   "score": null
+   "score": [
+    5,
+    2
+   ]
   },
   {
    "id": 1570409,
@@ -144,7 +147,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Luis Bestard Servera",
    "home": {
     "id": 4665,
@@ -156,7 +159,10 @@
     "name": "Valencia",
     "logo": "https://media.api-sports.io/football/teams/532.png"
    },
-   "score": null
+   "score": [
+    2,
+    2
+   ]
   },
   {
    "id": 1549818,
@@ -294,7 +300,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "10:30",
-   "status": "1H",
+   "status": "FT",
    "referee": "Chris Kavanagh",
    "home": {
     "id": 40,
@@ -308,7 +314,7 @@
    },
    "score": [
     0,
-    0
+    3
    ]
   },
   {
@@ -402,7 +408,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "11:00",
-   "status": "1H",
+   "status": "FT",
    "referee": "Francesco Fourneau",
    "home": {
     "id": 488,
@@ -415,8 +421,8 @@
     "logo": "https://media.api-sports.io/football/teams/489.png"
    },
    "score": [
-    0,
-    0
+    1,
+    1
    ]
   },
   {
@@ -429,7 +435,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "13:45",
-   "status": "NS",
+   "status": "FT",
    "referee": "Matteo Marcenaro",
    "home": {
     "id": 490,
@@ -441,7 +447,10 @@
     "name": "Juventus",
     "logo": "https://media.api-sports.io/football/teams/496.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   }
  ]
 }
