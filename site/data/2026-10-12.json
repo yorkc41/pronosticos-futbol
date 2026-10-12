@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "updated": "2026-10-11T15:54-05:00",
+ "updated": "2026-10-12T14:46-05:00",
  "matches": [
   {
    "id": 1570407,
@@ -12,8 +12,8 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "14:00",
-   "status": "NS",
-   "referee": null,
+   "status": "1H",
+   "referee": "Adrian Cordero Vega",
    "home": {
     "id": 539,
     "name": "Levante",
@@ -24,7 +24,10 @@
     "name": "Sevilla",
     "logo": "https://media.api-sports.io/football/teams/536.png"
    },
-   "score": null
+   "score": [
+    0,
+    1
+   ]
   },
   {
    "id": 1557420,
@@ -36,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "1H",
    "referee": "John Brooks",
    "home": {
     "id": 1346,
@@ -48,7 +51,10 @@
     "name": "Newcastle",
     "logo": "https://media.api-sports.io/football/teams/34.png"
    },
-   "score": null
+   "score": [
+    1,
+    0
+   ]
   },
   {
    "id": 1550137,
@@ -60,7 +66,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "11:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Paride Tremolada",
    "home": {
     "id": 499,
@@ -72,7 +78,10 @@
     "name": "Venezia",
     "logo": "https://media.api-sports.io/football/teams/517.png"
    },
-   "score": null
+   "score": [
+    3,
+    1
+   ]
   },
   {
    "id": 1550146,
@@ -84,7 +93,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "13:45",
-   "status": "NS",
+   "status": "HT",
    "referee": "Valerio Crezzini",
    "home": {
     "id": 503,
@@ -96,7 +105,10 @@
     "name": "Udinese",
     "logo": "https://media.api-sports.io/football/teams/494.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   }
  ]
 }

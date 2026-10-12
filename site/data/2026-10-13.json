@@ -1,0 +1,270 @@
+{
+ "date": "2026-10-13",
+ "updated": "2026-10-12T14:46-05:00",
+ "matches": [
+  {
+   "id": 1635679,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "11:45",
+   "status": "NS",
+   "referee": "Igor Pajac",
+   "home": {
+    "id": 116,
+    "name": "Lens",
+    "logo": "https://media.api-sports.io/football/teams/116.png"
+   },
+   "away": {
+    "id": 228,
+    "name": "Sporting CP",
+    "logo": "https://media.api-sports.io/football/teams/228.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635721,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "11:45",
+   "status": "NS",
+   "referee": "Sebastian Gishamer",
+   "home": {
+    "id": 13976,
+    "name": "Sabah FA",
+    "logo": "https://media.api-sports.io/football/teams/13976.png"
+   },
+   "away": {
+    "id": 560,
+    "name": "Slavia Praha",
+    "logo": "https://media.api-sports.io/football/teams/560.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635612,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Felix Zwayer",
+   "home": {
+    "id": 42,
+    "name": "Arsenal",
+    "logo": "https://media.api-sports.io/football/teams/42.png"
+   },
+   "away": {
+    "id": 79,
+    "name": "Lille",
+    "logo": "https://media.api-sports.io/football/teams/79.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635623,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Glenn Nyberg",
+   "home": {
+    "id": 530,
+    "name": "Atletico Madrid",
+    "logo": "https://media.api-sports.io/football/teams/530.png"
+   },
+   "away": {
+    "id": 33,
+    "name": "Manchester United",
+    "logo": "https://media.api-sports.io/football/teams/33.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635666,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Marco Guida",
+   "home": {
+    "id": 645,
+    "name": "Galatasaray",
+    "logo": "https://media.api-sports.io/football/teams/645.png"
+   },
+   "away": {
+    "id": 529,
+    "name": "Barcelona",
+    "logo": "https://media.api-sports.io/football/teams/529.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635671,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Rohit Saggi",
+   "home": {
+    "id": 505,
+    "name": "Inter",
+    "logo": "https://media.api-sports.io/football/teams/505.png"
+   },
+   "away": {
+    "id": 569,
+    "name": "Club Brugge KV",
+    "logo": "https://media.api-sports.io/football/teams/569.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635711,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Nick Walsh",
+   "home": {
+    "id": 173,
+    "name": "RB Leipzig",
+    "logo": "https://media.api-sports.io/football/teams/173.png"
+   },
+   "away": {
+    "id": 197,
+    "name": "PSV Eindhoven",
+    "logo": "https://media.api-sports.io/football/teams/197.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635742,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Georgi Nikolov Kabakov",
+   "home": {
+    "id": 759,
+    "name": "Viking",
+    "logo": "https://media.api-sports.io/football/teams/759.png"
+   },
+   "away": {
+    "id": 157,
+    "name": "Bayern München",
+    "logo": "https://media.api-sports.io/football/teams/157.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635748,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Daniel Siebert",
+   "home": {
+    "id": 533,
+    "name": "Villarreal",
+    "logo": "https://media.api-sports.io/football/teams/533.png"
+   },
+   "away": {
+    "id": 492,
+    "name": "Napoli",
+    "logo": "https://media.api-sports.io/football/teams/492.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549745,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "18:30",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 1131,
+    "name": "Bucaramanga",
+    "logo": "https://media.api-sports.io/football/teams/1131.png"
+   },
+   "away": {
+    "id": 1144,
+    "name": "Águilas Doradas",
+    "logo": "https://media.api-sports.io/football/teams/1144.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549812,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "20:30",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 1125,
+    "name": "Millonarios",
+    "logo": "https://media.api-sports.io/football/teams/1125.png"
+   },
+   "away": {
+    "id": 1136,
+    "name": "Once Caldas",
+    "logo": "https://media.api-sports.io/football/teams/1136.png"
+   },
+   "score": null
+  }
+ ]
+}

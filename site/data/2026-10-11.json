@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "updated": "2026-10-11T15:54-05:00",
+ "updated": "2026-10-12T14:46-05:00",
  "matches": [
   {
    "id": 1575183,
@@ -147,7 +147,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Luis Bestard Servera",
    "home": {
     "id": 4665,
@@ -174,7 +174,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "16:05",
-   "status": "NS",
+   "status": "FT",
    "referee": "Diaz Vargas, Carlos Alberto",
    "home": {
     "id": 1133,
@@ -186,7 +186,10 @@
     "name": "Deportes Tolima",
     "logo": "https://media.api-sports.io/football/teams/1142.png"
    },
-   "score": null
+   "score": [
+    3,
+    2
+   ]
   },
   {
    "id": 1549816,
@@ -198,8 +201,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "18:10",
-   "status": "NS",
-   "referee": null,
+   "status": "FT",
+   "referee": "Jhon Ospina",
    "home": {
     "id": 1132,
     "name": "Chico",
@@ -210,7 +213,10 @@
     "name": "Cucuta",
     "logo": "https://media.api-sports.io/football/teams/1470.png"
    },
-   "score": null
+   "score": [
+    0,
+    1
+   ]
   },
   {
    "id": 1549814,
@@ -222,7 +228,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "20:15",
-   "status": "NS",
+   "status": "FT",
    "referee": "Jose Alexander Ortiz Novoa",
    "home": {
     "id": 1138,
@@ -234,7 +240,10 @@
     "name": "Independiente Medellin",
     "logo": "https://media.api-sports.io/football/teams/1128.png"
    },
-   "score": null
+   "score": [
+    1,
+    2
+   ]
   },
   {
    "id": 1557421,
