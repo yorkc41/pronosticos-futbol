@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "updated": "2026-10-12T18:34-05:00",
+ "updated": "2026-10-13T12:33-05:00",
  "matches": [
   {
    "id": 1635679,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "11:45",
-   "status": "NS",
+   "status": "1H",
    "referee": "Igor Pajac",
    "home": {
     "id": 116,
@@ -24,7 +24,10 @@
     "name": "Sporting CP",
     "logo": "https://media.api-sports.io/football/teams/228.png"
    },
-   "score": null
+   "score": [
+    0,
+    1
+   ]
   },
   {
    "id": 1635721,
@@ -36,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "11:45",
-   "status": "NS",
+   "status": "1H",
    "referee": "Sebastian Gishamer",
    "home": {
     "id": 13976,
@@ -48,7 +51,10 @@
     "name": "Slavia Praha",
     "logo": "https://media.api-sports.io/football/teams/560.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1635612,

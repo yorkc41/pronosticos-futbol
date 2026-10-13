@@ -1,0 +1,294 @@
+{
+ "date": "2026-10-14",
+ "updated": "2026-10-13T12:33-05:00",
+ "matches": [
+  {
+   "id": 1635665,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "11:45",
+   "status": "NS",
+   "referee": "Donatas Rumsas",
+   "home": {
+    "id": 209,
+    "name": "Feyenoord",
+    "logo": "https://media.api-sports.io/football/teams/209.png"
+   },
+   "away": {
+    "id": 895,
+    "name": "Como",
+    "logo": "https://media.api-sports.io/football/teams/895.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635674,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "11:45",
+   "status": "NS",
+   "referee": "Tobias Stieler",
+   "home": {
+    "id": 1026,
+    "name": "Lask Linz",
+    "logo": "https://media.api-sports.io/football/teams/1026.png"
+   },
+   "away": {
+    "id": 40,
+    "name": "Liverpool",
+    "logo": "https://media.api-sports.io/football/teams/40.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635614,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Francois Letexier",
+   "home": {
+    "id": 497,
+    "name": "AS Roma",
+    "logo": "https://media.api-sports.io/football/teams/497.png"
+   },
+   "away": {
+    "id": 541,
+    "name": "Real Madrid",
+    "logo": "https://media.api-sports.io/football/teams/541.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635620,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Ivan Kruzliak",
+   "home": {
+    "id": 66,
+    "name": "Aston Villa",
+    "logo": "https://media.api-sports.io/football/teams/66.png"
+   },
+   "away": {
+    "id": 611,
+    "name": "Fenerbahçe",
+    "logo": "https://media.api-sports.io/football/teams/611.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635635,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Clement Turpin",
+   "home": {
+    "id": 543,
+    "name": "Real Betis",
+    "logo": "https://media.api-sports.io/football/teams/543.png"
+   },
+   "away": {
+    "id": 212,
+    "name": "FC Porto",
+    "logo": "https://media.api-sports.io/football/teams/212.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635639,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Urs Schnyder",
+   "home": {
+    "id": 327,
+    "name": "Bodo/Glimt",
+    "logo": "https://media.api-sports.io/football/teams/327.png"
+   },
+   "away": {
+    "id": 165,
+    "name": "Borussia Dortmund",
+    "logo": "https://media.api-sports.io/football/teams/165.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635690,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Sven Jablonski",
+   "home": {
+    "id": 50,
+    "name": "Manchester City",
+    "logo": "https://media.api-sports.io/football/teams/50.png"
+   },
+   "away": {
+    "id": 85,
+    "name": "Paris Saint Germain",
+    "logo": "https://media.api-sports.io/football/teams/85.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635725,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Chris Kavanagh",
+   "home": {
+    "id": 550,
+    "name": "Shakhtar Donetsk",
+    "logo": "https://media.api-sports.io/football/teams/550.png"
+   },
+   "away": {
+    "id": 575,
+    "name": "AEK Athens FC",
+    "logo": "https://media.api-sports.io/football/teams/575.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1635733,
+   "league": {
+    "id": 2,
+    "name": "Champions League",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/2.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Irfan Peljto",
+   "home": {
+    "id": 656,
+    "name": "Slovan Bratislava",
+    "logo": "https://media.api-sports.io/football/teams/656.png"
+   },
+   "away": {
+    "id": 172,
+    "name": "VfB Stuttgart",
+    "logo": "https://media.api-sports.io/football/teams/172.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1640020,
+   "league": {
+    "id": 13,
+    "name": "Copa Libertadores",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/13.png"
+   },
+   "time": "19:30",
+   "status": "NS",
+   "referee": "Facundo Tello",
+   "home": {
+    "id": 124,
+    "name": "Fluminense",
+    "logo": "https://media.api-sports.io/football/teams/124.png"
+   },
+   "away": {
+    "id": 121,
+    "name": "Palmeiras",
+    "logo": "https://media.api-sports.io/football/teams/121.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549721,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "16:30",
+   "status": "NS",
+   "referee": "Steven Camargo",
+   "home": {
+    "id": 1135,
+    "name": "Junior",
+    "logo": "https://media.api-sports.io/football/teams/1135.png"
+   },
+   "away": {
+    "id": 1462,
+    "name": "Deportivo Pereira",
+    "logo": "https://media.api-sports.io/football/teams/1462.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549752,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "18:30",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 1139,
+    "name": "Santa Fe",
+    "logo": "https://media.api-sports.io/football/teams/1139.png"
+   },
+   "away": {
+    "id": 1133,
+    "name": "Jaguares",
+    "logo": "https://media.api-sports.io/football/teams/1133.png"
+   },
+   "score": null
+  }
+ ]
+}
