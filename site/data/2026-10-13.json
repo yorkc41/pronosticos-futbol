@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "updated": "2026-10-13T12:33-05:00",
+ "updated": "2026-10-13T16:47-05:00",
  "matches": [
   {
    "id": 1635679,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "11:45",
-   "status": "1H",
+   "status": "FT",
    "referee": "Igor Pajac",
    "home": {
     "id": 116,
@@ -26,7 +26,7 @@
    },
    "score": [
     0,
-    1
+    2
    ]
   },
   {
@@ -39,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "11:45",
-   "status": "1H",
+   "status": "FT",
    "referee": "Sebastian Gishamer",
    "home": {
     "id": 13976,
@@ -52,7 +52,7 @@
     "logo": "https://media.api-sports.io/football/teams/560.png"
    },
    "score": [
-    0,
+    2,
     0
    ]
   },
@@ -66,7 +66,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Felix Zwayer",
    "home": {
     "id": 42,
@@ -78,7 +78,10 @@
     "name": "Lille",
     "logo": "https://media.api-sports.io/football/teams/79.png"
    },
-   "score": null
+   "score": [
+    3,
+    0
+   ]
   },
   {
    "id": 1635623,
@@ -90,7 +93,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Glenn Nyberg",
    "home": {
     "id": 530,
@@ -102,7 +105,10 @@
     "name": "Manchester United",
     "logo": "https://media.api-sports.io/football/teams/33.png"
    },
-   "score": null
+   "score": [
+    2,
+    0
+   ]
   },
   {
    "id": 1635666,
@@ -114,7 +120,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Marco Guida",
    "home": {
     "id": 645,
@@ -126,7 +132,10 @@
     "name": "Barcelona",
     "logo": "https://media.api-sports.io/football/teams/529.png"
    },
-   "score": null
+   "score": [
+    1,
+    4
+   ]
   },
   {
    "id": 1635671,
@@ -138,7 +147,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Rohit Saggi",
    "home": {
     "id": 505,
@@ -150,7 +159,10 @@
     "name": "Club Brugge KV",
     "logo": "https://media.api-sports.io/football/teams/569.png"
    },
-   "score": null
+   "score": [
+    3,
+    4
+   ]
   },
   {
    "id": 1635711,
@@ -162,7 +174,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Nick Walsh",
    "home": {
     "id": 173,
@@ -174,7 +186,10 @@
     "name": "PSV Eindhoven",
     "logo": "https://media.api-sports.io/football/teams/197.png"
    },
-   "score": null
+   "score": [
+    1,
+    0
+   ]
   },
   {
    "id": 1635742,
@@ -186,7 +201,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Georgi Nikolov Kabakov",
    "home": {
     "id": 759,
@@ -198,7 +213,10 @@
     "name": "Bayern München",
     "logo": "https://media.api-sports.io/football/teams/157.png"
    },
-   "score": null
+   "score": [
+    3,
+    3
+   ]
   },
   {
    "id": 1635748,
@@ -210,7 +228,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Daniel Siebert",
    "home": {
     "id": 533,
@@ -222,7 +240,10 @@
     "name": "Napoli",
     "logo": "https://media.api-sports.io/football/teams/492.png"
    },
-   "score": null
+   "score": [
+    3,
+    1
+   ]
   },
   {
    "id": 1549745,
