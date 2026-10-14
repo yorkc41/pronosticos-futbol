@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "updated": "2026-10-14T10:02-05:00",
+ "updated": "2026-10-14T15:35-05:00",
  "matches": [
   {
    "id": 1635665,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "11:45",
-   "status": "NS",
+   "status": "FT",
    "referee": "Donatas Rumsas",
    "home": {
     "id": 209,
@@ -24,7 +24,10 @@
     "name": "Como",
     "logo": "https://media.api-sports.io/football/teams/895.png"
    },
-   "score": null
+   "score": [
+    3,
+    2
+   ]
   },
   {
    "id": 1635674,
@@ -36,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "11:45",
-   "status": "NS",
+   "status": "FT",
    "referee": "Tobias Stieler",
    "home": {
     "id": 1026,
@@ -48,7 +51,10 @@
     "name": "Liverpool",
     "logo": "https://media.api-sports.io/football/teams/40.png"
    },
-   "score": null
+   "score": [
+    3,
+    6
+   ]
   },
   {
    "id": 1635614,
@@ -60,7 +66,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Francois Letexier",
    "home": {
     "id": 497,
@@ -72,7 +78,10 @@
     "name": "Real Madrid",
     "logo": "https://media.api-sports.io/football/teams/541.png"
    },
-   "score": null
+   "score": [
+    3,
+    1
+   ]
   },
   {
    "id": 1635620,
@@ -84,7 +93,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Ivan Kruzliak",
    "home": {
     "id": 66,
@@ -96,7 +105,10 @@
     "name": "Fenerbahçe",
     "logo": "https://media.api-sports.io/football/teams/611.png"
    },
-   "score": null
+   "score": [
+    5,
+    0
+   ]
   },
   {
    "id": 1635635,
@@ -108,7 +120,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Clement Turpin",
    "home": {
     "id": 543,
@@ -120,7 +132,10 @@
     "name": "FC Porto",
     "logo": "https://media.api-sports.io/football/teams/212.png"
    },
-   "score": null
+   "score": [
+    2,
+    2
+   ]
   },
   {
    "id": 1635639,
@@ -132,7 +147,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Urs Schnyder",
    "home": {
     "id": 327,
@@ -144,7 +159,10 @@
     "name": "Borussia Dortmund",
     "logo": "https://media.api-sports.io/football/teams/165.png"
    },
-   "score": null
+   "score": [
+    1,
+    0
+   ]
   },
   {
    "id": 1635690,
@@ -156,7 +174,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Sven Jablonski",
    "home": {
     "id": 50,
@@ -168,7 +186,10 @@
     "name": "Paris Saint Germain",
     "logo": "https://media.api-sports.io/football/teams/85.png"
    },
-   "score": null
+   "score": [
+    1,
+    4
+   ]
   },
   {
    "id": 1635725,
@@ -180,7 +201,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Chris Kavanagh",
    "home": {
     "id": 550,
@@ -192,7 +213,10 @@
     "name": "AEK Athens FC",
     "logo": "https://media.api-sports.io/football/teams/575.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   },
   {
    "id": 1635733,
@@ -204,7 +228,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Irfan Peljto",
    "home": {
     "id": 656,
@@ -216,7 +240,10 @@
     "name": "VfB Stuttgart",
     "logo": "https://media.api-sports.io/football/teams/172.png"
    },
-   "score": null
+   "score": [
+    0,
+    2
+   ]
   },
   {
    "id": 1640020,
