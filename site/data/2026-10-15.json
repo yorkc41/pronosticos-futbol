@@ -1,0 +1,54 @@
+{
+ "date": "2026-10-15",
+ "updated": "2026-10-14T10:02-05:00",
+ "matches": [
+  {
+   "id": 1640555,
+   "league": {
+    "id": 13,
+    "name": "Copa Libertadores",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/13.png"
+   },
+   "time": "19:30",
+   "status": "NS",
+   "referee": "Juan Gabriel Benitez",
+   "home": {
+    "id": 450,
+    "name": "Estudiantes L.P.",
+    "logo": "https://media.api-sports.io/football/teams/450.png"
+   },
+   "away": {
+    "id": 127,
+    "name": "Flamengo",
+    "logo": "https://media.api-sports.io/football/teams/127.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549752,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "20:05",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 1139,
+    "name": "Santa Fe",
+    "logo": "https://media.api-sports.io/football/teams/1139.png"
+   },
+   "away": {
+    "id": 1133,
+    "name": "Jaguares",
+    "logo": "https://media.api-sports.io/football/teams/1133.png"
+   },
+   "score": null
+  }
+ ]
+}

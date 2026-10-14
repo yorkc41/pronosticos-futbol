@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "updated": "2026-10-13T16:47-05:00",
+ "updated": "2026-10-14T10:02-05:00",
  "matches": [
   {
    "id": 1635679,
@@ -255,8 +255,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "18:30",
-   "status": "NS",
-   "referee": null,
+   "status": "FT",
+   "referee": "Jonnathan Ortiz",
    "home": {
     "id": 1131,
     "name": "Bucaramanga",
@@ -267,7 +267,10 @@
     "name": "Águilas Doradas",
     "logo": "https://media.api-sports.io/football/teams/1144.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   },
   {
    "id": 1549812,
@@ -279,8 +282,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "20:30",
-   "status": "NS",
-   "referee": null,
+   "status": "PST",
+   "referee": "Jose Bautista",
    "home": {
     "id": 1125,
     "name": "Millonarios",

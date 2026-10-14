@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "updated": "2026-10-13T16:47-05:00",
+ "updated": "2026-10-14T10:02-05:00",
  "matches": [
   {
    "id": 1635665,
@@ -253,7 +253,7 @@
    },
    "time": "16:30",
    "status": "NS",
-   "referee": "Steven Camargo",
+   "referee": "Carlos Andres Marquez Ortega",
    "home": {
     "id": 1135,
     "name": "Junior",
@@ -263,30 +263,6 @@
     "id": 1462,
     "name": "Deportivo Pereira",
     "logo": "https://media.api-sports.io/football/teams/1462.png"
-   },
-   "score": null
-  },
-  {
-   "id": 1549752,
-   "league": {
-    "id": 239,
-    "name": "Liga BetPlay",
-    "country": "Colombia",
-    "season": 2026,
-    "logo": "https://media.api-sports.io/football/leagues/239.png"
-   },
-   "time": "18:30",
-   "status": "NS",
-   "referee": null,
-   "home": {
-    "id": 1139,
-    "name": "Santa Fe",
-    "logo": "https://media.api-sports.io/football/teams/1139.png"
-   },
-   "away": {
-    "id": 1133,
-    "name": "Jaguares",
-    "logo": "https://media.api-sports.io/football/teams/1133.png"
    },
    "score": null
   }
