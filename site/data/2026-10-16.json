@@ -1,0 +1,78 @@
+{
+ "date": "2026-10-16",
+ "updated": "2026-10-15T09:54-05:00",
+ "matches": [
+  {
+   "id": 1575187,
+   "league": {
+    "id": 78,
+    "name": "Bundesliga",
+    "country": "Germany",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/78.png"
+   },
+   "time": "13:30",
+   "status": "NS",
+   "referee": "Benjamin Brand",
+   "home": {
+    "id": 169,
+    "name": "Eintracht Frankfurt",
+    "logo": "https://media.api-sports.io/football/teams/169.png"
+   },
+   "away": {
+    "id": 192,
+    "name": "1. FC Köln",
+    "logo": "https://media.api-sports.io/football/teams/192.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1570415,
+   "league": {
+    "id": 140,
+    "name": "LaLiga",
+    "country": "Spain",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/140.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 544,
+    "name": "Deportivo La Coruna",
+    "logo": "https://media.api-sports.io/football/teams/544.png"
+   },
+   "away": {
+    "id": 539,
+    "name": "Levante",
+    "logo": "https://media.api-sports.io/football/teams/539.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1550151,
+   "league": {
+    "id": 135,
+    "name": "Serie A",
+    "country": "Italy",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/135.png"
+   },
+   "time": "13:45",
+   "status": "NS",
+   "referee": "Matteo Marchetti",
+   "home": {
+    "id": 512,
+    "name": "Frosinone",
+    "logo": "https://media.api-sports.io/football/teams/512.png"
+   },
+   "away": {
+    "id": 488,
+    "name": "Sassuolo",
+    "logo": "https://media.api-sports.io/football/teams/488.png"
+   },
+   "score": null
+  }
+ ]
+}

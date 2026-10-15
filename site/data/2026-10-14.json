@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "updated": "2026-10-14T15:35-05:00",
+ "updated": "2026-10-15T09:54-05:00",
  "matches": [
   {
    "id": 1635665,
@@ -66,7 +66,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Francois Letexier",
    "home": {
     "id": 497,
@@ -80,7 +80,7 @@
    },
    "score": [
     3,
-    1
+    4
    ]
   },
   {
@@ -93,7 +93,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Ivan Kruzliak",
    "home": {
     "id": 66,
@@ -106,7 +106,7 @@
     "logo": "https://media.api-sports.io/football/teams/611.png"
    },
    "score": [
-    5,
+    6,
     0
    ]
   },
@@ -120,7 +120,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Clement Turpin",
    "home": {
     "id": 543,
@@ -133,7 +133,7 @@
     "logo": "https://media.api-sports.io/football/teams/212.png"
    },
    "score": [
-    2,
+    3,
     2
    ]
   },
@@ -147,7 +147,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Urs Schnyder",
    "home": {
     "id": 327,
@@ -174,7 +174,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Sven Jablonski",
    "home": {
     "id": 50,
@@ -187,7 +187,7 @@
     "logo": "https://media.api-sports.io/football/teams/85.png"
    },
    "score": [
-    1,
+    2,
     4
    ]
   },
@@ -201,7 +201,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Chris Kavanagh",
    "home": {
     "id": 550,
@@ -214,7 +214,7 @@
     "logo": "https://media.api-sports.io/football/teams/575.png"
    },
    "score": [
-    1,
+    3,
     1
    ]
   },
@@ -228,7 +228,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Irfan Peljto",
    "home": {
     "id": 656,
@@ -242,7 +242,7 @@
    },
    "score": [
     0,
-    2
+    3
    ]
   },
   {
@@ -255,7 +255,7 @@
     "logo": "https://media.api-sports.io/football/leagues/13.png"
    },
    "time": "19:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Facundo Tello",
    "home": {
     "id": 124,
@@ -267,7 +267,10 @@
     "name": "Palmeiras",
     "logo": "https://media.api-sports.io/football/teams/121.png"
    },
-   "score": null
+   "score": [
+    1,
+    2
+   ]
   },
   {
    "id": 1549721,
@@ -279,7 +282,7 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "16:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Carlos Andres Marquez Ortega",
    "home": {
     "id": 1135,
@@ -291,7 +294,10 @@
     "name": "Deportivo Pereira",
     "logo": "https://media.api-sports.io/football/teams/1462.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   }
  ]
 }
