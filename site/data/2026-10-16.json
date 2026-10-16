@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "updated": "2026-10-15T15:16-05:00",
+ "updated": "2026-10-16T09:46-05:00",
  "matches": [
   {
    "id": 1575187,
@@ -37,7 +37,7 @@
    },
    "time": "14:00",
    "status": "NS",
-   "referee": null,
+   "referee": "Manuel Jesus Orellana Cid",
    "home": {
     "id": 544,
     "name": "Deportivo La Coruna",
