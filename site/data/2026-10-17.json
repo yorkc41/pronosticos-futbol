@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "updated": "2026-10-17T08:40-05:00",
+ "updated": "2026-10-17T14:14-05:00",
  "matches": [
   {
    "id": 1575188,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "1H",
+   "status": "FT",
    "referee": "Daniel Schlager",
    "home": {
     "id": 182,
@@ -39,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "1H",
+   "status": "FT",
    "referee": "Robert Hartmann",
    "home": {
     "id": 175,
@@ -52,7 +52,7 @@
     "logo": "https://media.api-sports.io/football/teams/172.png"
    },
    "score": [
-    0,
+    1,
     0
    ]
   },
@@ -66,7 +66,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "1H",
+   "status": "FT",
    "referee": "Robert Schroder",
    "home": {
     "id": 162,
@@ -79,8 +79,8 @@
     "logo": "https://media.api-sports.io/football/teams/185.png"
    },
    "score": [
-    0,
-    0
+    2,
+    2
    ]
   },
   {
@@ -93,7 +93,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "1H",
+   "status": "FT",
    "referee": "Richard Hempel",
    "home": {
     "id": 174,
@@ -107,7 +107,7 @@
    },
    "score": [
     0,
-    0
+    1
    ]
   },
   {
@@ -120,7 +120,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "1H",
+   "status": "FT",
    "referee": "Florian Exner",
    "home": {
     "id": 1660,
@@ -133,8 +133,8 @@
     "logo": "https://media.api-sports.io/football/teams/170.png"
    },
    "score": [
-    2,
-    0
+    4,
+    3
    ]
   },
   {
@@ -147,7 +147,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "11:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Tobias Stieler",
    "home": {
     "id": 157,
@@ -159,7 +159,10 @@
     "name": "RB Leipzig",
     "logo": "https://media.api-sports.io/football/teams/173.png"
    },
-   "score": null
+   "score": [
+    6,
+    1
+   ]
   },
   {
    "id": 1570416,
@@ -171,7 +174,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "07:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Alejandro Hernandez",
    "home": {
     "id": 540,
@@ -185,7 +188,7 @@
    },
    "score": [
     0,
-    0
+    1
    ]
   },
   {
@@ -198,7 +201,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "09:15",
-   "status": "NS",
+   "status": "FT",
    "referee": "Victor Garcia Verdura",
    "home": {
     "id": 533,
@@ -210,7 +213,10 @@
     "name": "Elche",
     "logo": "https://media.api-sports.io/football/teams/797.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1570413,
@@ -222,7 +228,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "11:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Ricardo De Burgos Bengoetxea",
    "home": {
     "id": 543,
@@ -234,7 +240,10 @@
     "name": "Barcelona",
     "logo": "https://media.api-sports.io/football/teams/529.png"
    },
-   "score": null
+   "score": [
+    2,
+    5
+   ]
   },
   {
    "id": 1570421,
@@ -246,7 +255,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "1H",
    "referee": "Adrian Cordero Vega",
    "home": {
     "id": 532,
@@ -258,7 +267,10 @@
     "name": "Athletic Club",
     "logo": "https://media.api-sports.io/football/teams/531.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1549685,
@@ -369,7 +381,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "09:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "John Brooks",
    "home": {
     "id": 55,
@@ -381,7 +393,10 @@
     "name": "Liverpool",
     "logo": "https://media.api-sports.io/football/teams/40.png"
    },
-   "score": null
+   "score": [
+    1,
+    2
+   ]
   },
   {
    "id": 1557431,
@@ -393,7 +408,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "09:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Chris Kavanagh",
    "home": {
     "id": 36,
@@ -405,7 +420,10 @@
     "name": "Hull City",
     "logo": "https://media.api-sports.io/football/teams/64.png"
    },
-   "score": null
+   "score": [
+    1,
+    0
+   ]
   },
   {
    "id": 1557433,
@@ -417,7 +435,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "09:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Farai Hallam",
    "home": {
     "id": 50,
@@ -429,7 +447,10 @@
     "name": "Ipswich",
     "logo": "https://media.api-sports.io/football/teams/57.png"
    },
-   "score": null
+   "score": [
+    3,
+    2
+   ]
   },
   {
    "id": 1557434,
@@ -441,7 +462,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "11:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Jarred Gillett",
    "home": {
     "id": 34,
@@ -453,7 +474,10 @@
     "name": "Aston Villa",
     "logo": "https://media.api-sports.io/football/teams/66.png"
    },
-   "score": null
+   "score": [
+    0,
+    1
+   ]
   },
   {
    "id": 1550156,
@@ -465,7 +489,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "08:00",
-   "status": "1H",
+   "status": "FT",
    "referee": "Juan Luca Sacchi",
    "home": {
     "id": 517,
@@ -478,7 +502,7 @@
     "logo": "https://media.api-sports.io/football/teams/492.png"
    },
    "score": [
-    0,
+    1,
     0
    ]
   },
@@ -492,7 +516,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "11:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Daniele Doveri",
    "home": {
     "id": 500,
@@ -504,7 +528,10 @@
     "name": "Inter",
     "logo": "https://media.api-sports.io/football/teams/505.png"
    },
-   "score": null
+   "score": [
+    1,
+    3
+   ]
   },
   {
    "id": 1550148,
@@ -516,7 +543,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "13:45",
-   "status": "NS",
+   "status": "1H",
    "referee": "Rosario Abisso",
    "home": {
     "id": 497,
@@ -528,7 +555,10 @@
     "name": "Genoa",
     "logo": "https://media.api-sports.io/football/teams/495.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   }
  ]
 }
