@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "updated": "2026-10-16T14:53-05:00",
+ "updated": "2026-10-17T08:40-05:00",
  "matches": [
   {
    "id": 1575188,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "NS",
+   "status": "1H",
    "referee": "Daniel Schlager",
    "home": {
     "id": 182,
@@ -24,7 +24,10 @@
     "name": "Borussia Dortmund",
     "logo": "https://media.api-sports.io/football/teams/165.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1575190,
@@ -36,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "NS",
+   "status": "1H",
    "referee": "Robert Hartmann",
    "home": {
     "id": 175,
@@ -48,7 +51,10 @@
     "name": "VfB Stuttgart",
     "logo": "https://media.api-sports.io/football/teams/172.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1575191,
@@ -60,7 +66,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "NS",
+   "status": "1H",
    "referee": "Robert Schroder",
    "home": {
     "id": 162,
@@ -72,7 +78,10 @@
     "name": "SC Paderborn 07",
     "logo": "https://media.api-sports.io/football/teams/185.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1575192,
@@ -84,7 +93,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "NS",
+   "status": "1H",
    "referee": "Richard Hempel",
    "home": {
     "id": 174,
@@ -96,7 +105,10 @@
     "name": "FSV Mainz 05",
     "logo": "https://media.api-sports.io/football/teams/164.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1575193,
@@ -108,7 +120,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "NS",
+   "status": "1H",
    "referee": "Florian Exner",
    "home": {
     "id": 1660,
@@ -120,7 +132,10 @@
     "name": "FC Augsburg",
     "logo": "https://media.api-sports.io/football/teams/170.png"
    },
-   "score": null
+   "score": [
+    2,
+    0
+   ]
   },
   {
    "id": 1575185,
@@ -156,8 +171,8 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "07:00",
-   "status": "NS",
-   "referee": null,
+   "status": "2H",
+   "referee": "Alejandro Hernandez",
    "home": {
     "id": 540,
     "name": "Espanyol",
@@ -168,7 +183,10 @@
     "name": "Atletico Madrid",
     "logo": "https://media.api-sports.io/football/teams/530.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1570422,
@@ -181,7 +199,7 @@
    },
    "time": "09:15",
    "status": "NS",
-   "referee": null,
+   "referee": "Victor Garcia Verdura",
    "home": {
     "id": 533,
     "name": "Villarreal",
@@ -205,7 +223,7 @@
    },
    "time": "11:30",
    "status": "NS",
-   "referee": null,
+   "referee": "Ricardo De Burgos Bengoetxea",
    "home": {
     "id": 543,
     "name": "Real Betis",
@@ -229,7 +247,7 @@
    },
    "time": "14:00",
    "status": "NS",
-   "referee": null,
+   "referee": "Adrian Cordero Vega",
    "home": {
     "id": 532,
     "name": "Valencia",
@@ -253,7 +271,7 @@
    },
    "time": "15:00",
    "status": "NS",
-   "referee": null,
+   "referee": "Carlos Ortega",
    "home": {
     "id": 1132,
     "name": "Chico",
@@ -277,7 +295,7 @@
    },
    "time": "18:00",
    "status": "NS",
-   "referee": null,
+   "referee": "Luis Matorel Bolivar",
    "home": {
     "id": 1125,
     "name": "Millonarios",
@@ -301,7 +319,7 @@
    },
    "time": "20:10",
    "status": "NS",
-   "referee": null,
+   "referee": "Steven Camargo",
    "home": {
     "id": 1128,
     "name": "Independiente Medellin",
@@ -324,7 +342,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "06:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Paul Tierney",
    "home": {
     "id": 45,
@@ -336,7 +354,10 @@
     "name": "Chelsea",
     "logo": "https://media.api-sports.io/football/teams/49.png"
    },
-   "score": null
+   "score": [
+    0,
+    2
+   ]
   },
   {
    "id": 1557428,
@@ -444,7 +465,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "08:00",
-   "status": "NS",
+   "status": "1H",
    "referee": "Juan Luca Sacchi",
    "home": {
     "id": 517,
@@ -456,7 +477,10 @@
     "name": "Napoli",
     "logo": "https://media.api-sports.io/football/teams/492.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1550149,

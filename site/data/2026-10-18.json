@@ -1,0 +1,438 @@
+{
+ "date": "2026-10-18",
+ "updated": "2026-10-17T08:40-05:00",
+ "matches": [
+  {
+   "id": 1575186,
+   "league": {
+    "id": 78,
+    "name": "Bundesliga",
+    "country": "Germany",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/78.png"
+   },
+   "time": "08:30",
+   "status": "NS",
+   "referee": "Florian Badstubner",
+   "home": {
+    "id": 168,
+    "name": "Bayer Leverkusen",
+    "logo": "https://media.api-sports.io/football/teams/168.png"
+   },
+   "away": {
+    "id": 160,
+    "name": "SC Freiburg",
+    "logo": "https://media.api-sports.io/football/teams/160.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1575189,
+   "league": {
+    "id": 78,
+    "name": "Bundesliga",
+    "country": "Germany",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/78.png"
+   },
+   "time": "10:30",
+   "status": "NS",
+   "referee": "Soren Storks",
+   "home": {
+    "id": 163,
+    "name": "Borussia Mönchengladbach",
+    "logo": "https://media.api-sports.io/football/teams/163.png"
+   },
+   "away": {
+    "id": 167,
+    "name": "1899 Hoffenheim",
+    "logo": "https://media.api-sports.io/football/teams/167.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1570419,
+   "league": {
+    "id": 140,
+    "name": "LaLiga",
+    "country": "Spain",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/140.png"
+   },
+   "time": "07:00",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 727,
+    "name": "Osasuna",
+    "logo": "https://media.api-sports.io/football/teams/727.png"
+   },
+   "away": {
+    "id": 4665,
+    "name": "Racing Santander",
+    "logo": "https://media.api-sports.io/football/teams/4665.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1570414,
+   "league": {
+    "id": 140,
+    "name": "LaLiga",
+    "country": "Spain",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/140.png"
+   },
+   "time": "09:15",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 538,
+    "name": "Celta Vigo",
+    "logo": "https://media.api-sports.io/football/teams/538.png"
+   },
+   "away": {
+    "id": 542,
+    "name": "Alaves",
+    "logo": "https://media.api-sports.io/football/teams/542.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1570418,
+   "league": {
+    "id": 140,
+    "name": "LaLiga",
+    "country": "Spain",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/140.png"
+   },
+   "time": "11:30",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 535,
+    "name": "Malaga",
+    "logo": "https://media.api-sports.io/football/teams/535.png"
+   },
+   "away": {
+    "id": 548,
+    "name": "Real Sociedad",
+    "logo": "https://media.api-sports.io/football/teams/548.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1570420,
+   "league": {
+    "id": 140,
+    "name": "LaLiga",
+    "country": "Spain",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/140.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 541,
+    "name": "Real Madrid",
+    "logo": "https://media.api-sports.io/football/teams/541.png"
+   },
+   "away": {
+    "id": 536,
+    "name": "Sevilla",
+    "logo": "https://media.api-sports.io/football/teams/536.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549823,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Diego Ulloa Angulo",
+   "home": {
+    "id": 1144,
+    "name": "Águilas Doradas",
+    "logo": "https://media.api-sports.io/football/teams/1144.png"
+   },
+   "away": {
+    "id": 1142,
+    "name": "Deportes Tolima",
+    "logo": "https://media.api-sports.io/football/teams/1142.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549824,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "16:00",
+   "status": "NS",
+   "referee": "Santiago Bismarks",
+   "home": {
+    "id": 1131,
+    "name": "Bucaramanga",
+    "logo": "https://media.api-sports.io/football/teams/1131.png"
+   },
+   "away": {
+    "id": 1138,
+    "name": "America de Cali",
+    "logo": "https://media.api-sports.io/football/teams/1138.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549830,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "18:05",
+   "status": "NS",
+   "referee": "Jhon Ospina",
+   "home": {
+    "id": 1464,
+    "name": "Llaneros",
+    "logo": "https://media.api-sports.io/football/teams/1464.png"
+   },
+   "away": {
+    "id": 1139,
+    "name": "Santa Fe",
+    "logo": "https://media.api-sports.io/football/teams/1139.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549826,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "20:10",
+   "status": "NS",
+   "referee": "Wilmar Roldan",
+   "home": {
+    "id": 1127,
+    "name": "Deportivo Cali",
+    "logo": "https://media.api-sports.io/football/teams/1127.png"
+   },
+   "away": {
+    "id": 1135,
+    "name": "Junior",
+    "logo": "https://media.api-sports.io/football/teams/1135.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1557427,
+   "league": {
+    "id": 39,
+    "name": "Premier League",
+    "country": "England",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/39.png"
+   },
+   "time": "08:00",
+   "status": "NS",
+   "referee": "Craig Pawson",
+   "home": {
+    "id": 35,
+    "name": "Bournemouth",
+    "logo": "https://media.api-sports.io/football/teams/35.png"
+   },
+   "away": {
+    "id": 746,
+    "name": "Sunderland",
+    "logo": "https://media.api-sports.io/football/teams/746.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1557429,
+   "league": {
+    "id": 39,
+    "name": "Premier League",
+    "country": "England",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/39.png"
+   },
+   "time": "08:00",
+   "status": "NS",
+   "referee": "Robert Jones",
+   "home": {
+    "id": 51,
+    "name": "Brighton",
+    "logo": "https://media.api-sports.io/football/teams/51.png"
+   },
+   "away": {
+    "id": 52,
+    "name": "Crystal Palace",
+    "logo": "https://media.api-sports.io/football/teams/52.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1557432,
+   "league": {
+    "id": 39,
+    "name": "Premier League",
+    "country": "England",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/39.png"
+   },
+   "time": "08:00",
+   "status": "NS",
+   "referee": "Darren England",
+   "home": {
+    "id": 63,
+    "name": "Leeds",
+    "logo": "https://media.api-sports.io/football/teams/63.png"
+   },
+   "away": {
+    "id": 33,
+    "name": "Manchester United",
+    "logo": "https://media.api-sports.io/football/teams/33.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1557435,
+   "league": {
+    "id": 39,
+    "name": "Premier League",
+    "country": "England",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/39.png"
+   },
+   "time": "10:30",
+   "status": "NS",
+   "referee": "Michael Oliver",
+   "home": {
+    "id": 65,
+    "name": "Nottingham Forest",
+    "logo": "https://media.api-sports.io/football/teams/65.png"
+   },
+   "away": {
+    "id": 42,
+    "name": "Arsenal",
+    "logo": "https://media.api-sports.io/football/teams/42.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1550155,
+   "league": {
+    "id": 135,
+    "name": "Serie A",
+    "country": "Italy",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/135.png"
+   },
+   "time": "05:30",
+   "status": "NS",
+   "referee": "Marco Guida",
+   "home": {
+    "id": 494,
+    "name": "Udinese",
+    "logo": "https://media.api-sports.io/football/teams/494.png"
+   },
+   "away": {
+    "id": 867,
+    "name": "Lecce",
+    "logo": "https://media.api-sports.io/football/teams/867.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1550150,
+   "league": {
+    "id": 135,
+    "name": "Serie A",
+    "country": "Italy",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/135.png"
+   },
+   "time": "08:00",
+   "status": "NS",
+   "referee": "Marco Di Bello",
+   "home": {
+    "id": 502,
+    "name": "Fiorentina",
+    "logo": "https://media.api-sports.io/football/teams/502.png"
+   },
+   "away": {
+    "id": 895,
+    "name": "Como",
+    "logo": "https://media.api-sports.io/football/teams/895.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1550147,
+   "league": {
+    "id": 135,
+    "name": "Serie A",
+    "country": "Italy",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/135.png"
+   },
+   "time": "11:00",
+   "status": "NS",
+   "referee": "Daniele Chiffi",
+   "home": {
+    "id": 489,
+    "name": "AC Milan",
+    "logo": "https://media.api-sports.io/football/teams/489.png"
+   },
+   "away": {
+    "id": 499,
+    "name": "Atalanta",
+    "logo": "https://media.api-sports.io/football/teams/499.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1550152,
+   "league": {
+    "id": 135,
+    "name": "Serie A",
+    "country": "Italy",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/135.png"
+   },
+   "time": "13:45",
+   "status": "NS",
+   "referee": "Davide Massa",
+   "home": {
+    "id": 496,
+    "name": "Juventus",
+    "logo": "https://media.api-sports.io/football/teams/496.png"
+   },
+   "away": {
+    "id": 487,
+    "name": "Lazio",
+    "logo": "https://media.api-sports.io/football/teams/487.png"
+   },
+   "score": null
+  }
+ ]
+}
