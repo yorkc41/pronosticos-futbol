@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "updated": "2026-10-17T14:14-05:00",
+ "updated": "2026-10-18T08:57-05:00",
  "matches": [
   {
    "id": 1575186,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/78.png"
    },
    "time": "08:30",
-   "status": "NS",
+   "status": "1H",
    "referee": "Florian Badstubner",
    "home": {
     "id": 168,
@@ -24,7 +24,10 @@
     "name": "SC Freiburg",
     "logo": "https://media.api-sports.io/football/teams/160.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   },
   {
    "id": 1575189,
@@ -60,8 +63,8 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "07:00",
-   "status": "NS",
-   "referee": null,
+   "status": "FT",
+   "referee": "Juan Martinez Munuera",
    "home": {
     "id": 727,
     "name": "Osasuna",
@@ -72,7 +75,10 @@
     "name": "Racing Santander",
     "logo": "https://media.api-sports.io/football/teams/4665.png"
    },
-   "score": null
+   "score": [
+    2,
+    0
+   ]
   },
   {
    "id": 1570414,
@@ -85,7 +91,7 @@
    },
    "time": "09:15",
    "status": "NS",
-   "referee": null,
+   "referee": "Jose Luis Munuera Montero",
    "home": {
     "id": 538,
     "name": "Celta Vigo",
@@ -109,7 +115,7 @@
    },
    "time": "11:30",
    "status": "NS",
-   "referee": null,
+   "referee": "Luis Bestard Servera",
    "home": {
     "id": 535,
     "name": "Malaga",
@@ -133,7 +139,7 @@
    },
    "time": "14:00",
    "status": "NS",
-   "referee": null,
+   "referee": "Mateo Busquets Ferrer",
    "home": {
     "id": 541,
     "name": "Real Madrid",
@@ -252,7 +258,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "08:00",
-   "status": "NS",
+   "status": "HT",
    "referee": "Craig Pawson",
    "home": {
     "id": 35,
@@ -264,7 +270,10 @@
     "name": "Sunderland",
     "logo": "https://media.api-sports.io/football/teams/746.png"
    },
-   "score": null
+   "score": [
+    1,
+    0
+   ]
   },
   {
    "id": 1557429,
@@ -276,7 +285,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "08:00",
-   "status": "NS",
+   "status": "HT",
    "referee": "Robert Jones",
    "home": {
     "id": 51,
@@ -288,7 +297,10 @@
     "name": "Crystal Palace",
     "logo": "https://media.api-sports.io/football/teams/52.png"
    },
-   "score": null
+   "score": [
+    3,
+    0
+   ]
   },
   {
    "id": 1557432,
@@ -300,7 +312,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "08:00",
-   "status": "NS",
+   "status": "HT",
    "referee": "Darren England",
    "home": {
     "id": 63,
@@ -312,7 +324,10 @@
     "name": "Manchester United",
     "logo": "https://media.api-sports.io/football/teams/33.png"
    },
-   "score": null
+   "score": [
+    0,
+    1
+   ]
   },
   {
    "id": 1557435,
@@ -348,7 +363,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "05:30",
-   "status": "NS",
+   "status": "FT",
    "referee": "Marco Guida",
    "home": {
     "id": 494,
@@ -360,7 +375,10 @@
     "name": "Lecce",
     "logo": "https://media.api-sports.io/football/teams/867.png"
    },
-   "score": null
+   "score": [
+    0,
+    3
+   ]
   },
   {
    "id": 1550150,
@@ -372,7 +390,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "08:00",
-   "status": "NS",
+   "status": "HT",
    "referee": "Marco Di Bello",
    "home": {
     "id": 502,
@@ -384,7 +402,10 @@
     "name": "Como",
     "logo": "https://media.api-sports.io/football/teams/895.png"
    },
-   "score": null
+   "score": [
+    1,
+    2
+   ]
   },
   {
    "id": 1550147,

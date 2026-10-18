@@ -1,0 +1,126 @@
+{
+ "date": "2026-10-19",
+ "updated": "2026-10-18T08:57-05:00",
+ "matches": [
+  {
+   "id": 1570417,
+   "league": {
+    "id": 140,
+    "name": "LaLiga",
+    "country": "Spain",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/140.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 546,
+    "name": "Getafe",
+    "logo": "https://media.api-sports.io/football/teams/546.png"
+   },
+   "away": {
+    "id": 728,
+    "name": "Rayo Vallecano",
+    "logo": "https://media.api-sports.io/football/teams/728.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549827,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "20:05",
+   "status": "NS",
+   "referee": "Alvaro Jose Melendez Panneflek",
+   "home": {
+    "id": 1126,
+    "name": "Deportivo Pasto",
+    "logo": "https://media.api-sports.io/football/teams/1126.png"
+   },
+   "away": {
+    "id": 1141,
+    "name": "Alianza Valledupar",
+    "logo": "https://media.api-sports.io/football/teams/1141.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1557436,
+   "league": {
+    "id": 39,
+    "name": "Premier League",
+    "country": "England",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/39.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Andrew Madley",
+   "home": {
+    "id": 47,
+    "name": "Tottenham",
+    "logo": "https://media.api-sports.io/football/teams/47.png"
+   },
+   "away": {
+    "id": 1346,
+    "name": "Coventry",
+    "logo": "https://media.api-sports.io/football/teams/1346.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1550153,
+   "league": {
+    "id": 135,
+    "name": "Serie A",
+    "country": "Italy",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/135.png"
+   },
+   "time": "11:30",
+   "status": "NS",
+   "referee": "Andrea Calzavara",
+   "home": {
+    "id": 1579,
+    "name": "Monza",
+    "logo": "https://media.api-sports.io/football/teams/1579.png"
+   },
+   "away": {
+    "id": 490,
+    "name": "Cagliari",
+    "logo": "https://media.api-sports.io/football/teams/490.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1550154,
+   "league": {
+    "id": 135,
+    "name": "Serie A",
+    "country": "Italy",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/135.png"
+   },
+   "time": "13:45",
+   "status": "NS",
+   "referee": "Giovanni Ayroldi",
+   "home": {
+    "id": 523,
+    "name": "Parma",
+    "logo": "https://media.api-sports.io/football/teams/523.png"
+   },
+   "away": {
+    "id": 503,
+    "name": "Torino",
+    "logo": "https://media.api-sports.io/football/teams/503.png"
+   },
+   "score": null
+  }
+ ]
+}
