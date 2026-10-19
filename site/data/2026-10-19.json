@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "updated": "2026-10-19T11:56-05:00",
+ "updated": "2026-10-19T16:25-05:00",
  "matches": [
   {
    "id": 1570417,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Jon Ander Gonzalez Esteban",
    "home": {
     "id": 546,
@@ -24,7 +24,10 @@
     "name": "Rayo Vallecano",
     "logo": "https://media.api-sports.io/football/teams/728.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   },
   {
    "id": 1549827,
@@ -60,7 +63,7 @@
     "logo": "https://media.api-sports.io/football/leagues/39.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Andrew Madley",
    "home": {
     "id": 47,
@@ -72,7 +75,10 @@
     "name": "Coventry",
     "logo": "https://media.api-sports.io/football/teams/1346.png"
    },
-   "score": null
+   "score": [
+    3,
+    1
+   ]
   },
   {
    "id": 1550153,
@@ -84,7 +90,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "11:30",
-   "status": "1H",
+   "status": "FT",
    "referee": "Andrea Calzavara",
    "home": {
     "id": 1579,
@@ -97,7 +103,7 @@
     "logo": "https://media.api-sports.io/football/teams/490.png"
    },
    "score": [
-    0,
+    4,
     0
    ]
   },
@@ -111,7 +117,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "13:45",
-   "status": "NS",
+   "status": "FT",
    "referee": "Giovanni Ayroldi",
    "home": {
     "id": 523,
@@ -123,7 +129,10 @@
     "name": "Torino",
     "logo": "https://media.api-sports.io/football/teams/503.png"
    },
-   "score": null
+   "score": [
+    0,
+    3
+   ]
   }
  ]
 }
