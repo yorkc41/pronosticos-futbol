@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "updated": "2026-10-18T14:22-05:00",
+ "updated": "2026-10-19T11:56-05:00",
  "matches": [
   {
    "id": 1570417,
@@ -13,7 +13,7 @@
    },
    "time": "14:00",
    "status": "NS",
-   "referee": null,
+   "referee": "Jon Ander Gonzalez Esteban",
    "home": {
     "id": 546,
     "name": "Getafe",
@@ -84,7 +84,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "11:30",
-   "status": "NS",
+   "status": "1H",
    "referee": "Andrea Calzavara",
    "home": {
     "id": 1579,
@@ -96,7 +96,10 @@
     "name": "Cagliari",
     "logo": "https://media.api-sports.io/football/teams/490.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1550154,

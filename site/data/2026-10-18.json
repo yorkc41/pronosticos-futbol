@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "updated": "2026-10-18T14:22-05:00",
+ "updated": "2026-10-19T11:56-05:00",
  "matches": [
   {
    "id": 1575186,
@@ -147,7 +147,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "14:00",
-   "status": "1H",
+   "status": "FT",
    "referee": "Mateo Busquets Ferrer",
    "home": {
     "id": 541,
@@ -160,8 +160,8 @@
     "logo": "https://media.api-sports.io/football/teams/536.png"
    },
    "score": [
-    0,
-    0
+    4,
+    1
    ]
   },
   {
@@ -174,8 +174,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "14:00",
-   "status": "1H",
-   "referee": "Diego Ulloa Angulo",
+   "status": "FT",
+   "referee": "Diego Ulloa Angulo, Colombia",
    "home": {
     "id": 1144,
     "name": "Águilas Doradas",
@@ -187,8 +187,8 @@
     "logo": "https://media.api-sports.io/football/teams/1142.png"
    },
    "score": [
-    1,
-    0
+    2,
+    1
    ]
   },
   {
@@ -201,8 +201,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "16:00",
-   "status": "NS",
-   "referee": "Santiago Bismarks",
+   "status": "FT",
+   "referee": "Bismark Elias Santiago Pitalua, Colombia",
    "home": {
     "id": 1131,
     "name": "Bucaramanga",
@@ -213,7 +213,10 @@
     "name": "America de Cali",
     "logo": "https://media.api-sports.io/football/teams/1138.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   },
   {
    "id": 1549830,
@@ -225,8 +228,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "18:05",
-   "status": "NS",
-   "referee": "Jhon Ospina",
+   "status": "FT",
+   "referee": "Jhon Alexander Ospina Londono, Colombia",
    "home": {
     "id": 1464,
     "name": "Llaneros",
@@ -237,7 +240,10 @@
     "name": "Santa Fe",
     "logo": "https://media.api-sports.io/football/teams/1139.png"
    },
-   "score": null
+   "score": [
+    1,
+    0
+   ]
   },
   {
    "id": 1549826,
@@ -249,8 +255,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "20:10",
-   "status": "NS",
-   "referee": "Wilmar Roldan",
+   "status": "FT",
+   "referee": "Wilmar Roldan, Colombia",
    "home": {
     "id": 1127,
     "name": "Deportivo Cali",
@@ -261,7 +267,10 @@
     "name": "Junior",
     "logo": "https://media.api-sports.io/football/teams/1135.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1557427,
@@ -462,7 +471,7 @@
     "logo": "https://media.api-sports.io/football/leagues/135.png"
    },
    "time": "13:45",
-   "status": "1H",
+   "status": "FT",
    "referee": "Davide Massa",
    "home": {
     "id": 496,
@@ -476,7 +485,7 @@
    },
    "score": [
     0,
-    1
+    3
    ]
   }
  ]
