@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "updated": "2026-10-20T09:58-05:00",
+ "updated": "2026-10-20T15:27-05:00",
  "matches": [
   {
    "id": 1635661,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "11:45",
-   "status": "NS",
+   "status": "FT",
    "referee": "Ricardo De Burgos Bengoetxea",
    "home": {
     "id": 611,
@@ -24,7 +24,10 @@
     "name": "Slavia Praha",
     "logo": "https://media.api-sports.io/football/teams/560.png"
    },
-   "score": null
+   "score": [
+    2,
+    2
+   ]
   },
   {
    "id": 1635719,
@@ -36,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "11:45",
-   "status": "NS",
+   "status": "FT",
    "referee": "Javier Alberola Rojas",
    "home": {
     "id": 13976,
@@ -48,7 +51,10 @@
     "name": "Borussia Dortmund",
     "logo": "https://media.api-sports.io/football/teams/165.png"
    },
-   "score": null
+   "score": [
+    1,
+    2
+   ]
   },
   {
    "id": 1635617,
@@ -60,7 +66,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Sandro Schärer",
    "home": {
     "id": 497,
@@ -72,7 +78,10 @@
     "name": "Slovan Bratislava",
     "logo": "https://media.api-sports.io/football/teams/656.png"
    },
-   "score": null
+   "score": [
+    4,
+    0
+   ]
   },
   {
    "id": 1635655,
@@ -84,7 +93,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Daniel Siebert",
    "home": {
     "id": 212,
@@ -96,7 +105,10 @@
     "name": "PSV Eindhoven",
     "logo": "https://media.api-sports.io/football/teams/197.png"
    },
-   "score": null
+   "score": [
+    0,
+    1
+   ]
   },
   {
    "id": 1635688,
@@ -108,7 +120,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Szymon Marciniak",
    "home": {
     "id": 40,
@@ -120,7 +132,10 @@
     "name": "Villarreal",
     "logo": "https://media.api-sports.io/football/teams/533.png"
    },
-   "score": null
+   "score": [
+    4,
+    2
+   ]
   },
   {
    "id": 1635693,
@@ -132,7 +147,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Willy Delajod",
    "home": {
     "id": 50,
@@ -144,7 +159,10 @@
     "name": "AEK Athens FC",
     "logo": "https://media.api-sports.io/football/teams/575.png"
    },
-   "score": null
+   "score": [
+    4,
+    1
+   ]
   },
   {
    "id": 1635700,
@@ -156,7 +174,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Jose Maria Sanchez Martinez",
    "home": {
     "id": 492,
@@ -168,7 +186,10 @@
     "name": "Bodo/Glimt",
     "logo": "https://media.api-sports.io/football/teams/327.png"
    },
-   "score": null
+   "score": [
+    2,
+    2
+   ]
   },
   {
    "id": 1635702,
@@ -180,7 +201,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Michael Oliver",
    "home": {
     "id": 85,
@@ -192,7 +213,10 @@
     "name": "Barcelona",
     "logo": "https://media.api-sports.io/football/teams/529.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   },
   {
    "id": 1635738,
@@ -204,7 +228,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Serdar Gozubuyuk",
    "home": {
     "id": 172,
@@ -216,7 +240,10 @@
     "name": "Atletico Madrid",
     "logo": "https://media.api-sports.io/football/teams/530.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   },
   {
    "id": 1549832,
