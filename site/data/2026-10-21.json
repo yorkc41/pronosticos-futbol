@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "updated": "2026-10-21T10:08-05:00",
+ "updated": "2026-10-21T15:32-05:00",
  "matches": [
   {
    "id": 1635647,
@@ -12,7 +12,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "11:45",
-   "status": "NS",
+   "status": "FT",
    "referee": "Sven Jablonski",
    "home": {
     "id": 895,
@@ -24,7 +24,10 @@
     "name": "Manchester United",
     "logo": "https://media.api-sports.io/football/teams/33.png"
    },
-   "score": null
+   "score": [
+    4,
+    1
+   ]
   },
   {
    "id": 1635684,
@@ -36,7 +39,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "11:45",
-   "status": "NS",
+   "status": "FT",
    "referee": "Rade Obrenovic",
    "home": {
     "id": 79,
@@ -48,7 +51,10 @@
     "name": "Galatasaray",
     "logo": "https://media.api-sports.io/football/teams/645.png"
    },
-   "score": null
+   "score": [
+    2,
+    4
+   ]
   },
   {
    "id": 1635621,
@@ -60,7 +66,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Sebastian Gishamer",
    "home": {
     "id": 66,
@@ -72,7 +78,10 @@
     "name": "Viking",
     "logo": "https://media.api-sports.io/football/teams/759.png"
    },
-   "score": null
+   "score": [
+    3,
+    0
+   ]
   },
   {
    "id": 1635630,
@@ -84,7 +93,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Davide Massa",
    "home": {
     "id": 157,
@@ -96,7 +105,10 @@
     "name": "Arsenal",
     "logo": "https://media.api-sports.io/football/teams/42.png"
    },
-   "score": null
+   "score": [
+    2,
+    1
+   ]
   },
   {
    "id": 1635636,
@@ -108,7 +120,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Simone Sozza",
    "home": {
     "id": 543,
@@ -120,7 +132,10 @@
     "name": "Feyenoord",
     "logo": "https://media.api-sports.io/football/teams/209.png"
    },
-   "score": null
+   "score": [
+    1,
+    0
+   ]
   },
   {
    "id": 1635645,
@@ -132,7 +147,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Luis Miguel Branco Godinho",
    "home": {
     "id": 569,
@@ -144,7 +159,10 @@
     "name": "Lens",
     "logo": "https://media.api-sports.io/football/teams/116.png"
    },
-   "score": null
+   "score": [
+    3,
+    0
+   ]
   },
   {
    "id": 1635672,
@@ -156,7 +174,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Harm Osmers",
    "home": {
     "id": 505,
@@ -168,7 +186,10 @@
     "name": "Shakhtar Donetsk",
     "logo": "https://media.api-sports.io/football/teams/550.png"
    },
-   "score": null
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "id": 1635716,
@@ -180,7 +201,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Istvan Kovacs",
    "home": {
     "id": 541,
@@ -192,7 +213,10 @@
     "name": "RB Leipzig",
     "logo": "https://media.api-sports.io/football/teams/173.png"
    },
-   "score": null
+   "score": [
+    2,
+    0
+   ]
   },
   {
    "id": 1635737,
@@ -204,7 +228,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "NS",
+   "status": "2H",
    "referee": "Nick Walsh",
    "home": {
     "id": 228,
@@ -216,7 +240,10 @@
     "name": "Lask Linz",
     "logo": "https://media.api-sports.io/football/teams/1026.png"
    },
-   "score": null
+   "score": [
+    1,
+    3
+   ]
   },
   {
    "id": 1640021,
@@ -252,7 +279,7 @@
     "logo": "https://media.api-sports.io/football/leagues/140.png"
    },
    "time": "13:00",
-   "status": "NS",
+   "status": "FT",
    "referee": "Alejandro Quintero Gonzalez",
    "home": {
     "id": 539,
@@ -264,7 +291,10 @@
     "name": "Athletic Club",
     "logo": "https://media.api-sports.io/football/teams/531.png"
    },
-   "score": null
+   "score": [
+    3,
+    1
+   ]
   },
   {
    "id": 1549770,
