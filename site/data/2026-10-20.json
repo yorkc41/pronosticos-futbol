@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "updated": "2026-10-20T15:27-05:00",
+ "updated": "2026-10-21T10:08-05:00",
  "matches": [
   {
    "id": 1635661,
@@ -66,7 +66,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Sandro Schärer",
    "home": {
     "id": 497,
@@ -93,7 +93,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Daniel Siebert",
    "home": {
     "id": 212,
@@ -120,7 +120,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Szymon Marciniak",
    "home": {
     "id": 40,
@@ -134,7 +134,7 @@
    },
    "score": [
     4,
-    2
+    3
    ]
   },
   {
@@ -147,7 +147,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Willy Delajod",
    "home": {
     "id": 50,
@@ -160,7 +160,7 @@
     "logo": "https://media.api-sports.io/football/teams/575.png"
    },
    "score": [
-    4,
+    5,
     1
    ]
   },
@@ -174,7 +174,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Jose Maria Sanchez Martinez",
    "home": {
     "id": 492,
@@ -187,8 +187,8 @@
     "logo": "https://media.api-sports.io/football/teams/327.png"
    },
    "score": [
-    2,
-    2
+    4,
+    3
    ]
   },
   {
@@ -201,7 +201,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Michael Oliver",
    "home": {
     "id": 85,
@@ -214,8 +214,8 @@
     "logo": "https://media.api-sports.io/football/teams/529.png"
    },
    "score": [
-    1,
-    1
+    4,
+    2
    ]
   },
   {
@@ -228,7 +228,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Serdar Gozubuyuk",
    "home": {
     "id": 172,
@@ -255,8 +255,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "16:30",
-   "status": "NS",
-   "referee": "Edwin Trujillo",
+   "status": "FT",
+   "referee": "Edwin Ferney Trujillo Castro, Colombia",
    "home": {
     "id": 1462,
     "name": "Deportivo Pereira",
@@ -267,7 +267,10 @@
     "name": "Chico",
     "logo": "https://media.api-sports.io/football/teams/1132.png"
    },
-   "score": null
+   "score": [
+    2,
+    0
+   ]
   },
   {
    "id": 1549829,
@@ -279,8 +282,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "18:15",
-   "status": "NS",
-   "referee": "Carlos Andres Marquez Ortega",
+   "status": "FT",
+   "referee": "Carlos Andrés Márquez Ortega, Colombia",
    "home": {
     "id": 1134,
     "name": "Internacional de Bogota",
@@ -291,7 +294,10 @@
     "name": "Fortaleza FC",
     "logo": "https://media.api-sports.io/football/teams/1147.png"
    },
-   "score": null
+   "score": [
+    2,
+    1
+   ]
   },
   {
    "id": 1549825,
@@ -303,8 +309,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "18:30",
-   "status": "NS",
-   "referee": "Andres Rojas",
+   "status": "FT",
+   "referee": "Andres Rojas, Colombia",
    "home": {
     "id": 1470,
     "name": "Cucuta",
@@ -315,7 +321,10 @@
     "name": "Atletico Nacional",
     "logo": "https://media.api-sports.io/football/teams/1137.png"
    },
-   "score": null
+   "score": [
+    1,
+    0
+   ]
   },
   {
    "id": 1549812,
@@ -327,8 +336,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "20:30",
-   "status": "NS",
-   "referee": "J. Bautista",
+   "status": "FT",
+   "referee": "Jose Bautista, Colombia",
    "home": {
     "id": 1125,
     "name": "Millonarios",
@@ -339,7 +348,10 @@
     "name": "Once Caldas",
     "logo": "https://media.api-sports.io/football/teams/1136.png"
    },
-   "score": null
+   "score": [
+    1,
+    1
+   ]
   }
  ]
 }

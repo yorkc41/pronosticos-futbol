@@ -1,0 +1,54 @@
+{
+ "date": "2026-10-22",
+ "updated": "2026-10-21T10:08-05:00",
+ "matches": [
+  {
+   "id": 1640556,
+   "league": {
+    "id": 13,
+    "name": "Copa Libertadores",
+    "country": "World",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/13.png"
+   },
+   "time": "19:30",
+   "status": "NS",
+   "referee": "Gustavo Tejera",
+   "home": {
+    "id": 127,
+    "name": "Flamengo",
+    "logo": "https://media.api-sports.io/football/teams/127.png"
+   },
+   "away": {
+    "id": 450,
+    "name": "Estudiantes L.P.",
+    "logo": "https://media.api-sports.io/football/teams/450.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549815,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "20:00",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 1137,
+    "name": "Atletico Nacional",
+    "logo": "https://media.api-sports.io/football/teams/1137.png"
+   },
+   "away": {
+    "id": 1126,
+    "name": "Deportivo Pasto",
+    "logo": "https://media.api-sports.io/football/teams/1126.png"
+   },
+   "score": null
+  }
+ ]
+}
