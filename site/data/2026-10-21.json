@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "updated": "2026-10-21T15:32-05:00",
+ "updated": "2026-10-22T10:09-05:00",
  "matches": [
   {
    "id": 1635647,
@@ -66,7 +66,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Sebastian Gishamer",
    "home": {
     "id": 66,
@@ -80,7 +80,7 @@
    },
    "score": [
     3,
-    0
+    1
    ]
   },
   {
@@ -93,7 +93,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Davide Massa",
    "home": {
     "id": 157,
@@ -107,7 +107,7 @@
    },
    "score": [
     2,
-    1
+    2
    ]
   },
   {
@@ -120,7 +120,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Simone Sozza",
    "home": {
     "id": 543,
@@ -147,7 +147,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Luis Miguel Branco Godinho",
    "home": {
     "id": 569,
@@ -174,7 +174,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Harm Osmers",
    "home": {
     "id": 505,
@@ -187,7 +187,7 @@
     "logo": "https://media.api-sports.io/football/teams/550.png"
    },
    "score": [
-    0,
+    1,
     0
    ]
   },
@@ -201,7 +201,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Istvan Kovacs",
    "home": {
     "id": 541,
@@ -214,8 +214,8 @@
     "logo": "https://media.api-sports.io/football/teams/173.png"
    },
    "score": [
-    2,
-    0
+    4,
+    1
    ]
   },
   {
@@ -228,7 +228,7 @@
     "logo": "https://media.api-sports.io/football/leagues/2.png"
    },
    "time": "14:00",
-   "status": "2H",
+   "status": "FT",
    "referee": "Nick Walsh",
    "home": {
     "id": 228,
@@ -241,7 +241,7 @@
     "logo": "https://media.api-sports.io/football/teams/1026.png"
    },
    "score": [
-    1,
+    2,
     3
    ]
   },
@@ -255,7 +255,7 @@
     "logo": "https://media.api-sports.io/football/leagues/13.png"
    },
    "time": "19:30",
-   "status": "NS",
+   "status": "PEN",
    "referee": "Esteban Ostojich",
    "home": {
     "id": 121,
@@ -267,7 +267,10 @@
     "name": "Fluminense",
     "logo": "https://media.api-sports.io/football/teams/124.png"
    },
-   "score": null
+   "score": [
+    0,
+    1
+   ]
   },
   {
    "id": 1570389,
@@ -306,8 +309,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "18:15",
-   "status": "NS",
-   "referee": null,
+   "status": "FT",
+   "referee": "Steven Camargo, Colombia",
    "home": {
     "id": 1464,
     "name": "Llaneros",
@@ -318,7 +321,10 @@
     "name": "Deportivo Cali",
     "logo": "https://media.api-sports.io/football/teams/1127.png"
    },
-   "score": null
+   "score": [
+    0,
+    3
+   ]
   },
   {
    "id": 1549752,
@@ -330,8 +336,8 @@
     "logo": "https://media.api-sports.io/football/leagues/239.png"
    },
    "time": "20:20",
-   "status": "NS",
-   "referee": "F. Ossa Orozco",
+   "status": "FT",
+   "referee": "Ferney Ossa Orozco, Colombia",
    "home": {
     "id": 1139,
     "name": "Santa Fe",
@@ -342,7 +348,10 @@
     "name": "Jaguares",
     "logo": "https://media.api-sports.io/football/teams/1133.png"
    },
-   "score": null
+   "score": [
+    2,
+    1
+   ]
   }
  ]
 }

@@ -1,0 +1,150 @@
+{
+ "date": "2026-10-23",
+ "updated": "2026-10-22T10:09-05:00",
+ "matches": [
+  {
+   "id": 1575196,
+   "league": {
+    "id": 78,
+    "name": "Bundesliga",
+    "country": "Germany",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/78.png"
+   },
+   "time": "13:30",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 172,
+    "name": "VfB Stuttgart",
+    "logo": "https://media.api-sports.io/football/teams/172.png"
+   },
+   "away": {
+    "id": 163,
+    "name": "Borussia Mönchengladbach",
+    "logo": "https://media.api-sports.io/football/teams/163.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1570423,
+   "league": {
+    "id": 140,
+    "name": "LaLiga",
+    "country": "Spain",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/140.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 542,
+    "name": "Alaves",
+    "logo": "https://media.api-sports.io/football/teams/542.png"
+   },
+   "away": {
+    "id": 535,
+    "name": "Malaga",
+    "logo": "https://media.api-sports.io/football/teams/535.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549836,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "18:00",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 1132,
+    "name": "Chico",
+    "logo": "https://media.api-sports.io/football/teams/1132.png"
+   },
+   "away": {
+    "id": 1131,
+    "name": "Bucaramanga",
+    "logo": "https://media.api-sports.io/football/teams/1131.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1549840,
+   "league": {
+    "id": 239,
+    "name": "Liga BetPlay",
+    "country": "Colombia",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/239.png"
+   },
+   "time": "20:10",
+   "status": "NS",
+   "referee": null,
+   "home": {
+    "id": 1135,
+    "name": "Junior",
+    "logo": "https://media.api-sports.io/football/teams/1135.png"
+   },
+   "away": {
+    "id": 1144,
+    "name": "Águilas Doradas",
+    "logo": "https://media.api-sports.io/football/teams/1144.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1557443,
+   "league": {
+    "id": 39,
+    "name": "Premier League",
+    "country": "England",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/39.png"
+   },
+   "time": "14:00",
+   "status": "NS",
+   "referee": "Thomas Bramall",
+   "home": {
+    "id": 57,
+    "name": "Ipswich",
+    "logo": "https://media.api-sports.io/football/teams/57.png"
+   },
+   "away": {
+    "id": 65,
+    "name": "Nottingham Forest",
+    "logo": "https://media.api-sports.io/football/teams/65.png"
+   },
+   "score": null
+  },
+  {
+   "id": 1550165,
+   "league": {
+    "id": 135,
+    "name": "Serie A",
+    "country": "Italy",
+    "season": 2026,
+    "logo": "https://media.api-sports.io/football/leagues/135.png"
+   },
+   "time": "13:45",
+   "status": "NS",
+   "referee": "Andrea Zanotti",
+   "home": {
+    "id": 503,
+    "name": "Torino",
+    "logo": "https://media.api-sports.io/football/teams/503.png"
+   },
+   "away": {
+    "id": 1579,
+    "name": "Monza",
+    "logo": "https://media.api-sports.io/football/teams/1579.png"
+   },
+   "score": null
+  }
+ ]
+}
